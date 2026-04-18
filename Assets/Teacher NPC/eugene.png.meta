@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 9246b0415206c594b8d212b318ff6456
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1936097432566995951
+    second: eugene_0
+  - first:
+      213: 555537525455682586
+    second: eugene_1
+  - first:
+      213: -1422841449037377719
+    second: eugene_2
+  - first:
+      213: -1831962977324319851
+    second: eugene_3
+  - first:
+      213: -7003153064725260804
+    second: eugene_4
+  - first:
+      213: -3243531188479418946
+    second: eugene_5
+  - first:
+      213: -4930633000410399223
+    second: eugene_6
+  - first:
+      213: 4864546142403388635
+    second: eugene_7
+  - first:
+      213: -8747122038868749834
+    second: eugene_8
+  - first:
+      213: -324247365338828311
+    second: eugene_9
+  - first:
+      213: -1244226672655985239
+    second: eugene_10
+  - first:
+      213: -3845847943251746417
+    second: eugene_11
+  - first:
+      213: -8894765719317010420
+    second: eugene_12
+  - first:
+      213: 3292875763118601330
+    second: eugene_13
+  - first:
+      213: -5382795000532872518
+    second: eugene_14
+  - first:
+      213: 1573620386934767755
+    second: eugene_15
+  - first:
+      213: 8969754238442490237
+    second: eugene_16
+  - first:
+      213: -4116178568517745149
+    second: eugene_17
+  - first:
+      213: 1479389960860108039
+    second: eugene_18
+  - first:
+      213: 8494921201171844177
+    second: eugene_19
+  - first:
+      213: 6240816824732823845
+    second: eugene_20
+  - first:
+      213: 934392180411721675
+    second: eugene_21
+  - first:
+      213: 3776432427414224963
+    second: eugene_22
+  - first:
+      213: 2916613972872069361
+    second: eugene_23
+  - first:
+      213: 5772700663040170202
+    second: eugene_24
+  - first:
+      213: 6757066373889672728
+    second: eugene_25
+  - first:
+      213: -5347901848520628769
+    second: eugene_26
+  - first:
+      213: 2829922750693426974
+    second: eugene_27
+  - first:
+      213: 6171794034094191330
+    second: eugene_28
+  - first:
+      213: 7729584017874207244
+    second: eugene_29
+  - first:
+      213: -7076443900282214607
+    second: eugene_30
+  - first:
+      213: 812434119121954190
+    second: eugene_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eugene_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 478
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146c4994a99125e0800000000000000
+      internalID: -1936097432566995951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 470
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7f20af6aa5b700800000000000000
+      internalID: 555537525455682586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 470
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fcc6a9d3d014ce0800000000000000
+      internalID: -1422841449037377719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 470
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bbae6d06f8396e0800000000000000
+      internalID: -1831962977324319851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 478
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5dc55546dcfce90800000000000000
+      internalID: -7003153064725260804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 470
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd98cca199acf2d0800000000000000
+      internalID: -3243531188479418946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_6
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 470
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e38b4e86fd29bb0800000000000000
+      internalID: -4930633000410399223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 470
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4637b61f6528340800000000000000
+      internalID: 4864546142403388635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 318
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1dc3299dafb9680800000000000000
+      internalID: -8747122038868749834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 315
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17f993dba008bf0800000000000000
+      internalID: -324247365338828311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 315
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a51644fe6e9bbee0800000000000000
+      internalID: -1244226672655985239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 325
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81205afbadc0aac0800000000000000
+      internalID: -3845847943251746417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 318
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a9cb64b17f8480800000000000000
+      internalID: -8894765719317010420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 315
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747d266f05a2bd20800000000000000
+      internalID: 3292875763118601330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_14
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 315
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab25d7e57787c45b0800000000000000
+      internalID: -5382795000532872518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 320
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804f8e876f96d510800000000000000
+      internalID: 1573620386934767755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 155
+        width: 63
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d794be0c4f7fa7c70800000000000000
+      internalID: 8969754238442490237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 155
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3068c6f766560e6c0800000000000000
+      internalID: -4116178568517745149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705885dc459d78410800000000000000
+      internalID: 1479389960860108039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 165
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c48ce03d504e570800000000000000
+      internalID: 8494921201171844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_20
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 155
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213b7a36d5db9650800000000000000
+      internalID: 6240816824732823845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 155
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e75accb0a7fc00800000000000000
+      internalID: 934392180411721675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_22
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 158
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408a4ac845986430800000000000000
+      internalID: 3776432427414224963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_23
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 165
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f00bf794f4e97820800000000000000
+      internalID: 2916613972872069361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8db2ffaa0cc1050800000000000000
+      internalID: 5772700663040170202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164e6b011ce5cd50800000000000000
+      internalID: 6757066373889672728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e5496a9f68c5b0800000000000000
+      internalID: -5347901848520628769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 10
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c0e88fb7e54720800000000000000
+      internalID: 2829922750693426974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23f0579fd96a550800000000000000
+      internalID: 6171794034094191330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02cdee06bff44b60800000000000000
+      internalID: 7729584017874207244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_30
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e2bae3cb6bcd90800000000000000
+      internalID: -7076443900282214607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eugene_31
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 5
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85eba1e688564b00800000000000000
+      internalID: 812434119121954190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eugene_0: -1936097432566995951
+      eugene_1: 555537525455682586
+      eugene_10: -1244226672655985239
+      eugene_11: -3845847943251746417
+      eugene_12: -8894765719317010420
+      eugene_13: 3292875763118601330
+      eugene_14: -5382795000532872518
+      eugene_15: 1573620386934767755
+      eugene_16: 8969754238442490237
+      eugene_17: -4116178568517745149
+      eugene_18: 1479389960860108039
+      eugene_19: 8494921201171844177
+      eugene_2: -1422841449037377719
+      eugene_20: 6240816824732823845
+      eugene_21: 934392180411721675
+      eugene_22: 3776432427414224963
+      eugene_23: 2916613972872069361
+      eugene_24: 5772700663040170202
+      eugene_25: 6757066373889672728
+      eugene_26: -5347901848520628769
+      eugene_27: 2829922750693426974
+      eugene_28: 6171794034094191330
+      eugene_29: 7729584017874207244
+      eugene_3: -1831962977324319851
+      eugene_30: -7076443900282214607
+      eugene_31: 812434119121954190
+      eugene_4: -7003153064725260804
+      eugene_5: -3243531188479418946
+      eugene_6: -4930633000410399223
+      eugene_7: 4864546142403388635
+      eugene_8: -8747122038868749834
+      eugene_9: -324247365338828311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

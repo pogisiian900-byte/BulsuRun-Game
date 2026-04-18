@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 470aa58328187a04e96320d459909335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3449323258412023
+    second: blackboard text 1_0
+  - first:
+      213: -2763087009735523362
+    second: blackboard text 1_1
+  - first:
+      213: -4729977937026747857
+    second: blackboard text 1_2
+  - first:
+      213: -8122505842262229608
+    second: blackboard text 1_3
+  - first:
+      213: 7468089702999788932
+    second: blackboard text 1_4
+  - first:
+      213: -156509629313794777
+    second: blackboard text 1_5
+  - first:
+      213: 7305969810003898271
+    second: blackboard text 1_6
+  - first:
+      213: -3714775114325194330
+    second: blackboard text 1_7
+  - first:
+      213: 4169391053384410368
+    second: blackboard text 1_8
+  - first:
+      213: 411315869845526070
+    second: blackboard text 1_9
+  - first:
+      213: 6847235963967046583
+    second: blackboard text 1_10
+  - first:
+      213: 8162454097577285062
+    second: blackboard text 1_11
+  - first:
+      213: -5077109699047649627
+    second: blackboard text 1_12
+  - first:
+      213: -6304792410919381060
+    second: blackboard text 1_13
+  - first:
+      213: 180254733564641060
+    second: blackboard text 1_14
+  - first:
+      213: 2389239589768616652
+    second: blackboard text 1_15
+  - first:
+      213: -6311038132772123203
+    second: blackboard text 1_16
+  - first:
+      213: 4887612246848278445
+    second: blackboard text 1_17
+  - first:
+      213: -5058515867576654840
+    second: blackboard text 1_18
+  - first:
+      213: -3936652316082381834
+    second: blackboard text 1_19
+  - first:
+      213: -3574526634928795290
+    second: blackboard text 1_20
+  - first:
+      213: -7704747332845071664
+    second: blackboard text 1_21
+  - first:
+      213: 7062371761270516460
+    second: blackboard text 1_22
+  - first:
+      213: -3660231816906865888
+    second: blackboard text 1_23
+  - first:
+      213: -2732069671764364975
+    second: blackboard text 1_24
+  - first:
+      213: -469712546321735601
+    second: blackboard text 1_25
+  - first:
+      213: 7238700798187274812
+    second: blackboard text 1_26
+  - first:
+      213: 793038048107129841
+    second: blackboard text 1_27
+  - first:
+      213: -8646636415835269793
+    second: blackboard text 1_28
+  - first:
+      213: -3496501228732805469
+    second: blackboard text 1_29
+  - first:
+      213: -7066158936183455946
+    second: blackboard text 1_30
+  - first:
+      213: 8768975307618608305
+    second: blackboard text 1_31
+  - first:
+      213: 1306419485469458086
+    second: blackboard text 1_32
+  - first:
+      213: -4521251726290745353
+    second: blackboard text 1_33
+  - first:
+      213: 7542012667172902808
+    second: blackboard text 1_34
+  - first:
+      213: -1306683942160921464
+    second: blackboard text 1_35
+  - first:
+      213: -8078295620401305363
+    second: blackboard text 1_36
+  - first:
+      213: 6189731667588749035
+    second: blackboard text 1_37
+  - first:
+      213: 1289085188933970558
+    second: blackboard text 1_38
+  - first:
+      213: -1184227599268219446
+    second: blackboard text 1_39
+  - first:
+      213: -7947593225987681967
+    second: blackboard text 1_40
+  - first:
+      213: 346435917772862842
+    second: blackboard text 1_41
+  - first:
+      213: -7620254879894274652
+    second: blackboard text 1_42
+  - first:
+      213: -3389321662723060320
+    second: blackboard text 1_43
+  - first:
+      213: 2789864314407609056
+    second: blackboard text 1_44
+  - first:
+      213: 3430668570027742194
+    second: blackboard text 1_45
+  - first:
+      213: -8452589473300420568
+    second: blackboard text 1_46
+  - first:
+      213: -7316240828643313112
+    second: blackboard text 1_47
+  - first:
+      213: -1296222492609511736
+    second: blackboard text 1_48
+  - first:
+      213: -6441526723064254296
+    second: blackboard text 1_49
+  - first:
+      213: 4633027941738419535
+    second: blackboard text 1_50
+  - first:
+      213: 4729629398657241913
+    second: blackboard text 1_51
+  - first:
+      213: 3358487907526253045
+    second: blackboard text 1_52
+  - first:
+      213: -7303323437731234611
+    second: blackboard text 1_53
+  - first:
+      213: -7688019235849989750
+    second: blackboard text 1_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackboard text 1_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 659
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb788724214c0000800000000000000
+      internalID: 3449323258412023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 641
+        width: 814
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c73d010b87a9d0800000000000000
+      internalID: -2763087009735523362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 820
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f514702ebb5eb0800000000000000
+      internalID: -4729977937026747857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 866
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dbce9a8ff074f80800000000000000
+      internalID: -8122505842262229608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 470
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66195e4d6fab46ec0800000000000000
+      internalID: -3574526634928795290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 470
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d291ad4f1d331590800000000000000
+      internalID: -7704747332845071664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6746e2b5920260800000000000000
+      internalID: 7062371761270516460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230fa52e8e343dc0800000000000000
+      internalID: -3660231816906865888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151fdd0db1db51ad0800000000000000
+      internalID: -2732069671764364975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 470
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e2f18dee3b79f0800000000000000
+      internalID: -469712546321735601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 470
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320a4f0608057460800000000000000
+      internalID: 7238700798187274812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb6bce27ef610b00800000000000000
+      internalID: 793038048107129841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f559e2cddf9f00880800000000000000
+      internalID: -8646636415835269793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae0aa068aee97fc0800000000000000
+      internalID: -3496501228732805469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 470
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f355ab2e5ffed90800000000000000
+      internalID: -7066158936183455946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_31
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b467ce0598a1b970800000000000000
+      internalID: 8768975307618608305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 470
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae3e0fa995512210800000000000000
+      internalID: 1306419485469458086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 456
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7815272894141c0800000000000000
+      internalID: -4521251726290745353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 470
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897565ebf8c9aa860800000000000000
+      internalID: 7542012667172902808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 304
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e2631fe024ef80800000000000000
+      internalID: -8078295620401305363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 304
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be61d95382856e550800000000000000
+      internalID: 6189731667588749035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a60a34620c3e110800000000000000
+      internalID: 1289085188933970558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57764d547c09fe0800000000000000
+      internalID: -1184227599268219446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15114b1b11a74b190800000000000000
+      internalID: -7947593225987681967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 304
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75b948b1a9cec400800000000000000
+      internalID: 346435917772862842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adf6f18f8a6f3690800000000000000
+      internalID: -7620254879894274652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad0bd7b7e5b6f0d0800000000000000
+      internalID: -3389321662723060320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2edc700d697b620800000000000000
+      internalID: 2789864314407609056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d99253ee2c9f20800000000000000
+      internalID: 3430668570027742194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 304
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e8b368ae52ba80800000000000000
+      internalID: -8452589473300420568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a718dbabd777a90800000000000000
+      internalID: -7316240828643313112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce732ab284e20ee0800000000000000
+      internalID: -1296222492609511736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_49
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b194f2991b96a0800000000000000
+      internalID: -6441526723064254296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_50
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 304
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4517cdbd52db4040800000000000000
+      internalID: 4633027941738419535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_51
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 304
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933953221e403a140800000000000000
+      internalID: 4729629398657241913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 304
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f91c8635febb9e20800000000000000
+      internalID: 3358487907526253045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 304
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccbe3e270265aa90800000000000000
+      internalID: -7303323437731234611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard text 1_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 290
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819ac4ec3bae4590800000000000000
+      internalID: -7688019235849989750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58812cc66fa87df42ad721c24f500505
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blackboard text 1_0: 3449323258412023
+      blackboard text 1_1: -2763087009735523362
+      blackboard text 1_10: 6847235963967046583
+      blackboard text 1_11: 8162454097577285062
+      blackboard text 1_12: -5077109699047649627
+      blackboard text 1_13: -6304792410919381060
+      blackboard text 1_14: 180254733564641060
+      blackboard text 1_15: 2389239589768616652
+      blackboard text 1_16: -6311038132772123203
+      blackboard text 1_17: 4887612246848278445
+      blackboard text 1_18: -5058515867576654840
+      blackboard text 1_19: -3936652316082381834
+      blackboard text 1_2: -4729977937026747857
+      blackboard text 1_20: -3574526634928795290
+      blackboard text 1_21: -7704747332845071664
+      blackboard text 1_22: 7062371761270516460
+      blackboard text 1_23: -3660231816906865888
+      blackboard text 1_24: -2732069671764364975
+      blackboard text 1_25: -469712546321735601
+      blackboard text 1_26: 7238700798187274812
+      blackboard text 1_27: 793038048107129841
+      blackboard text 1_28: -8646636415835269793
+      blackboard text 1_29: -3496501228732805469
+      blackboard text 1_3: -8122505842262229608
+      blackboard text 1_30: -7066158936183455946
+      blackboard text 1_31: 8768975307618608305
+      blackboard text 1_32: 1306419485469458086
+      blackboard text 1_33: -4521251726290745353
+      blackboard text 1_34: 7542012667172902808
+      blackboard text 1_35: -1306683942160921464
+      blackboard text 1_36: -8078295620401305363
+      blackboard text 1_37: 6189731667588749035
+      blackboard text 1_38: 1289085188933970558
+      blackboard text 1_39: -1184227599268219446
+      blackboard text 1_4: 7468089702999788932
+      blackboard text 1_40: -7947593225987681967
+      blackboard text 1_41: 346435917772862842
+      blackboard text 1_42: -7620254879894274652
+      blackboard text 1_43: -3389321662723060320
+      blackboard text 1_44: 2789864314407609056
+      blackboard text 1_45: 3430668570027742194
+      blackboard text 1_46: -8452589473300420568
+      blackboard text 1_47: -7316240828643313112
+      blackboard text 1_48: -1296222492609511736
+      blackboard text 1_49: -6441526723064254296
+      blackboard text 1_5: -156509629313794777
+      blackboard text 1_50: 4633027941738419535
+      blackboard text 1_51: 4729629398657241913
+      blackboard text 1_52: 3358487907526253045
+      blackboard text 1_53: -7303323437731234611
+      blackboard text 1_54: -7688019235849989750
+      blackboard text 1_6: 7305969810003898271
+      blackboard text 1_7: -3714775114325194330
+      blackboard text 1_8: 4169391053384410368
+      blackboard text 1_9: 411315869845526070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

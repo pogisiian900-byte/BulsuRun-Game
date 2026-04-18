@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: 8381018356a637b40afbfde9a9808814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1926409074550841705
+    second: pH64_plants_OGA_alpha_0
+  - first:
+      213: -4992884251737989838
+    second: pH64_plants_OGA_alpha_1
+  - first:
+      213: 5052889092204568326
+    second: pH64_plants_OGA_alpha_2
+  - first:
+      213: -3765727260042557772
+    second: pH64_plants_OGA_alpha_3
+  - first:
+      213: 268070929937783249
+    second: pH64_plants_OGA_alpha_4
+  - first:
+      213: -5935090884550640673
+    second: pH64_plants_OGA_alpha_5
+  - first:
+      213: 3287136070919369546
+    second: pH64_plants_OGA_alpha_6
+  - first:
+      213: 2084407874512950041
+    second: pH64_plants_OGA_alpha_7
+  - first:
+      213: -774177921939345537
+    second: pH64_plants_OGA_alpha_8
+  - first:
+      213: -3488927765070193903
+    second: pH64_plants_OGA_alpha_9
+  - first:
+      213: 4065236504236002150
+    second: pH64_plants_OGA_alpha_10
+  - first:
+      213: 5578948984608897928
+    second: pH64_plants_OGA_alpha_11
+  - first:
+      213: 2267042505615250998
+    second: pH64_plants_OGA_alpha_12
+  - first:
+      213: -4650157403307803225
+    second: pH64_plants_OGA_alpha_13
+  - first:
+      213: 2578823868162233734
+    second: pH64_plants_OGA_alpha_14
+  - first:
+      213: -6172358478467515908
+    second: pH64_plants_OGA_alpha_15
+  - first:
+      213: -1436086450960047285
+    second: pH64_plants_OGA_alpha_16
+  - first:
+      213: 8287878384055635818
+    second: pH64_plants_OGA_alpha_17
+  - first:
+      213: -2989546489905337530
+    second: pH64_plants_OGA_alpha_18
+  - first:
+      213: 5617304132125052103
+    second: pH64_plants_OGA_alpha_19
+  - first:
+      213: -2959042312097050182
+    second: pH64_plants_OGA_alpha_20
+  - first:
+      213: 356558907707751328
+    second: pH64_plants_OGA_alpha_21
+  - first:
+      213: -3516070244704695644
+    second: pH64_plants_OGA_alpha_22
+  - first:
+      213: 1145267490310768115
+    second: pH64_plants_OGA_alpha_23
+  - first:
+      213: 1362548370756195406
+    second: pH64_plants_OGA_alpha_24
+  - first:
+      213: -1917475831121302578
+    second: pH64_plants_OGA_alpha_25
+  - first:
+      213: -6467175946233753287
+    second: pH64_plants_OGA_alpha_26
+  - first:
+      213: -1368813249596754111
+    second: pH64_plants_OGA_alpha_27
+  - first:
+      213: -8881942756771205416
+    second: pH64_plants_OGA_alpha_28
+  - first:
+      213: -8676262326650169779
+    second: pH64_plants_OGA_alpha_29
+  - first:
+      213: -5985724133418217202
+    second: pH64_plants_OGA_alpha_30
+  - first:
+      213: -920355945735713431
+    second: pH64_plants_OGA_alpha_31
+  - first:
+      213: -2747433715503788988
+    second: pH64_plants_OGA_alpha_32
+  - first:
+      213: -6317811047063172753
+    second: pH64_plants_OGA_alpha_33
+  - first:
+      213: 2714864857233268566
+    second: pH64_plants_OGA_alpha_34
+  - first:
+      213: -7504240907817314505
+    second: pH64_plants_OGA_alpha_35
+  - first:
+      213: -1844045075357786242
+    second: pH64_plants_OGA_alpha_36
+  - first:
+      213: 8912006921638701694
+    second: pH64_plants_OGA_alpha_37
+  - first:
+      213: -3202938204269473482
+    second: pH64_plants_OGA_alpha_38
+  - first:
+      213: 7015525648652945050
+    second: pH64_plants_OGA_alpha_39
+  - first:
+      213: -2695032358476857313
+    second: pH64_plants_OGA_alpha_40
+  - first:
+      213: -197914827599151841
+    second: pH64_plants_OGA_alpha_41
+  - first:
+      213: 2104729739436624527
+    second: pH64_plants_OGA_alpha_42
+  - first:
+      213: -4806162964949223682
+    second: pH64_plants_OGA_alpha_43
+  - first:
+      213: -6285555813376966795
+    second: pH64_plants_OGA_alpha_44
+  - first:
+      213: -6565192057461606096
+    second: pH64_plants_OGA_alpha_45
+  - first:
+      213: -4390433886956568212
+    second: pH64_plants_OGA_alpha_46
+  - first:
+      213: 3273176117513633413
+    second: pH64_plants_OGA_alpha_47
+  - first:
+      213: -5540849239380703176
+    second: pH64_plants_OGA_alpha_48
+  - first:
+      213: 2532697396413879078
+    second: pH64_plants_OGA_alpha_49
+  - first:
+      213: 6272673825248748564
+    second: pH64_plants_OGA_alpha_50
+  - first:
+      213: -1287856069589463892
+    second: pH64_plants_OGA_alpha_51
+  - first:
+      213: 3871269381490185373
+    second: pH64_plants_OGA_alpha_52
+  - first:
+      213: -4557308537532584046
+    second: pH64_plants_OGA_alpha_53
+  - first:
+      213: 4134377375696773338
+    second: pH64_plants_OGA_alpha_54
+  - first:
+      213: 3472450031064627163
+    second: pH64_plants_OGA_alpha_55
+  - first:
+      213: -5119576241775475784
+    second: pH64_plants_OGA_alpha_56
+  - first:
+      213: 2652580972196963048
+    second: pH64_plants_OGA_alpha_57
+  - first:
+      213: -8077540575682892090
+    second: pH64_plants_OGA_alpha_58
+  - first:
+      213: 460138819518031742
+    second: pH64_plants_OGA_alpha_59
+  - first:
+      213: -4475086836183452792
+    second: pH64_plants_OGA_alpha_60
+  - first:
+      213: 7793634874282412565
+    second: pH64_plants_OGA_alpha_61
+  - first:
+      213: -5409312860583840702
+    second: pH64_plants_OGA_alpha_62
+  - first:
+      213: 5552255325185562026
+    second: pH64_plants_OGA_alpha_63
+  - first:
+      213: -3985617380216194875
+    second: pH64_plants_OGA_alpha_64
+  - first:
+      213: 2130487073316730043
+    second: pH64_plants_OGA_alpha_65
+  - first:
+      213: -8226290669625166303
+    second: pH64_plants_OGA_alpha_66
+  - first:
+      213: 8454970254815504112
+    second: pH64_plants_OGA_alpha_67
+  - first:
+      213: 3226176480273903817
+    second: pH64_plants_OGA_alpha_68
+  - first:
+      213: -4410625479487290628
+    second: pH64_plants_OGA_alpha_69
+  - first:
+      213: 1770380030787773695
+    second: pH64_plants_OGA_alpha_70
+  - first:
+      213: -4068273646928532364
+    second: pH64_plants_OGA_alpha_71
+  - first:
+      213: 3955069600138020015
+    second: pH64_plants_OGA_alpha_72
+  - first:
+      213: -4394423163424890117
+    second: pH64_plants_OGA_alpha_73
+  - first:
+      213: -836731171881667624
+    second: pH64_plants_OGA_alpha_74
+  - first:
+      213: -1417133243794515600
+    second: pH64_plants_OGA_alpha_75
+  - first:
+      213: 3517554922066719936
+    second: pH64_plants_OGA_alpha_76
+  - first:
+      213: 1470830437662924887
+    second: pH64_plants_OGA_alpha_77
+  - first:
+      213: -167553763148522068
+    second: pH64_plants_OGA_alpha_78
+  - first:
+      213: 3662813044088389981
+    second: pH64_plants_OGA_alpha_79
+  - first:
+      213: 5254640747059485173
+    second: pH64_plants_OGA_alpha_80
+  - first:
+      213: 6922277946546723840
+    second: pH64_plants_OGA_alpha_81
+  - first:
+      213: -3914470617002962261
+    second: pH64_plants_OGA_alpha_82
+  - first:
+      213: 8562238502775267099
+    second: pH64_plants_OGA_alpha_83
+  - first:
+      213: -703691301927006068
+    second: pH64_plants_OGA_alpha_84
+  - first:
+      213: 7433104374432163772
+    second: pH64_plants_OGA_alpha_85
+  - first:
+      213: 8232072530545587147
+    second: pH64_plants_OGA_alpha_86
+  - first:
+      213: -7254282284607266360
+    second: pH64_plants_OGA_alpha_87
+  - first:
+      213: 8118527087717197611
+    second: pH64_plants_OGA_alpha_88
+  - first:
+      213: 9108261747714404435
+    second: pH64_plants_OGA_alpha_89
+  - first:
+      213: 5754810254982781678
+    second: pH64_plants_OGA_alpha_90
+  - first:
+      213: -3613016044900052796
+    second: pH64_plants_OGA_alpha_91
+  - first:
+      213: -131452178345590185
+    second: pH64_plants_OGA_alpha_92
+  - first:
+      213: -2968801908005946571
+    second: pH64_plants_OGA_alpha_93
+  - first:
+      213: -4194259004254582129
+    second: pH64_plants_OGA_alpha_94
+  - first:
+      213: 4484827863490062946
+    second: pH64_plants_OGA_alpha_95
+  - first:
+      213: 380206425121355449
+    second: pH64_plants_OGA_alpha_96
+  - first:
+      213: 6692391861610190914
+    second: pH64_plants_OGA_alpha_97
+  - first:
+      213: -1325341023164584809
+    second: pH64_plants_OGA_alpha_98
+  - first:
+      213: -1612820453875481650
+    second: pH64_plants_OGA_alpha_99
+  - first:
+      213: 604630292209157812
+    second: pH64_plants_OGA_alpha_100
+  - first:
+      213: 7488463678269998087
+    second: pH64_plants_OGA_alpha_101
+  - first:
+      213: -8518664738255503140
+    second: pH64_plants_OGA_alpha_102
+  - first:
+      213: 5659997535004872800
+    second: pH64_plants_OGA_alpha_103
+  - first:
+      213: -9055105936946875896
+    second: pH64_plants_OGA_alpha_104
+  - first:
+      213: -2846613168548584693
+    second: pH64_plants_OGA_alpha_105
+  - first:
+      213: -778746005926093366
+    second: pH64_plants_OGA_alpha_106
+  - first:
+      213: -2740401839311407579
+    second: pH64_plants_OGA_alpha_107
+  - first:
+      213: 8440651451775617432
+    second: pH64_plants_OGA_alpha_108
+  - first:
+      213: 7452416962743952007
+    second: pH64_plants_OGA_alpha_109
+  - first:
+      213: -3052563095703654705
+    second: pH64_plants_OGA_alpha_110
+  - first:
+      213: 369988964594327407
+    second: pH64_plants_OGA_alpha_111
+  - first:
+      213: 3409859651398043316
+    second: pH64_plants_OGA_alpha_112
+  - first:
+      213: 4019004075265777014
+    second: pH64_plants_OGA_alpha_113
+  - first:
+      213: 3132792798878635762
+    second: pH64_plants_OGA_alpha_114
+  - first:
+      213: 7430551679162264842
+    second: pH64_plants_OGA_alpha_115
+  - first:
+      213: -68402994620764109
+    second: pH64_plants_OGA_alpha_116
+  - first:
+      213: 6663958447047241143
+    second: pH64_plants_OGA_alpha_117
+  - first:
+      213: 3442209027356080371
+    second: pH64_plants_OGA_alpha_118
+  - first:
+      213: 4591681638251711103
+    second: pH64_plants_OGA_alpha_119
+  - first:
+      213: 2493283906333718311
+    second: pH64_plants_OGA_alpha_120
+  - first:
+      213: 5176230451566234670
+    second: pH64_plants_OGA_alpha_121
+  - first:
+      213: 7656509492588429442
+    second: pH64_plants_OGA_alpha_122
+  - first:
+      213: 7622651344998902195
+    second: pH64_plants_OGA_alpha_123
+  - first:
+      213: 3426572418441375823
+    second: pH64_plants_OGA_alpha_124
+  - first:
+      213: -4715690242651194141
+    second: pH64_plants_OGA_alpha_125
+  - first:
+      213: -1613623713199411769
+    second: pH64_plants_OGA_alpha_126
+  - first:
+      213: 3419185575103961921
+    second: pH64_plants_OGA_alpha_127
+  - first:
+      213: 8595117670740547708
+    second: pH64_plants_OGA_alpha_128
+  - first:
+      213: 656283471467864846
+    second: pH64_plants_OGA_alpha_129
+  - first:
+      213: 5585941582775410603
+    second: pH64_plants_OGA_alpha_130
+  - first:
+      213: -2788016420639133615
+    second: pH64_plants_OGA_alpha_131
+  - first:
+      213: -1552864007861760971
+    second: pH64_plants_OGA_alpha_132
+  - first:
+      213: 3276727588604706773
+    second: pH64_plants_OGA_alpha_133
+  - first:
+      213: 2599290415753956154
+    second: pH64_plants_OGA_alpha_134
+  - first:
+      213: 9008505837702536310
+    second: pH64_plants_OGA_alpha_135
+  - first:
+      213: -5258803811220278308
+    second: pH64_plants_OGA_alpha_136
+  - first:
+      213: 8021773386119130775
+    second: pH64_plants_OGA_alpha_137
+  - first:
+      213: 3409016640817044209
+    second: pH64_plants_OGA_alpha_138
+  - first:
+      213: 7318085064161136030
+    second: pH64_plants_OGA_alpha_139
+  - first:
+      213: -1477166429965035613
+    second: pH64_plants_OGA_alpha_140
+  - first:
+      213: 2189623167003811723
+    second: pH64_plants_OGA_alpha_141
+  - first:
+      213: -1463758208405521408
+    second: pH64_plants_OGA_alpha_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96121b4c8dafbba10800000000000000
+      internalID: 1926409074550841705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd38af936b5bab0800000000000000
+      internalID: -4992884251737989838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 156
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f9c46abd77f1640800000000000000
+      internalID: 5052889092204568326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 169
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6882832037dbbc0800000000000000
+      internalID: -3765727260042557772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9dc89271168b300800000000000000
+      internalID: 268070929937783249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb33b4394252ada0800000000000000
+      internalID: -5935090884550640673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 167
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43b58b27d04e9d20800000000000000
+      internalID: 3287136070919369546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 165
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131f5f0bed4dec10800000000000000
+      internalID: 2084407874512950041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fead128419145f0800000000000000
+      internalID: -774177921939345537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 164
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b5efbcea6d49fc0800000000000000
+      internalID: -3488927765070193903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 149
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b00f2ef0f9a6830800000000000000
+      internalID: 4065236504236002150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 160
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bb3affa886c6d40800000000000000
+      internalID: 5578948984608897928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63698e5c527267f10800000000000000
+      internalID: 2267042505615250998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 166
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7f22ba72577fb0800000000000000
+      internalID: -4650157403307803225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 167
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685db1815a2d9c320800000000000000
+      internalID: 2578823868162233734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 166
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b2989aa0675aa0800000000000000
+      internalID: -6172358478467515908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 167
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4366c74bfef11ce0800000000000000
+      internalID: -1436086450960047285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 170
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f464faa75740370800000000000000
+      internalID: 8287878384055635818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2da58e4ff286d0800000000000000
+      internalID: -2989546489905337530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc5aea85ca4fd40800000000000000
+      internalID: 5617304132125052103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 171
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1da10e1be5fe6d0800000000000000
+      internalID: -2959042312097050182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfb6bff60c2f400800000000000000
+      internalID: 356558907707751328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4e0bcdb8643fc0800000000000000
+      internalID: -3516070244704695644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c6cce6bec4ef00800000000000000
+      internalID: 1145267490310768115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d53c268eb8e210800000000000000
+      internalID: 1362548370756195406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb2e9c04e1c365e0800000000000000
+      internalID: -1917475831121302578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 134
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93159c0ddb9ff36a0800000000000000
+      internalID: -6467175946233753287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 131
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ffed0a9ff00de0800000000000000
+      internalID: -1368813249596754111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 136
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6c4b0f100db480800000000000000
+      internalID: -8881942756771205416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4699e9f169b79780800000000000000
+      internalID: -8676262326650169779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 146
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01df184d9f6eeca0800000000000000
+      internalID: -5985724133418217202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 130
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0183c42d3a33f0800000000000000
+      internalID: -920355945735713431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 144
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c077f97972fd9d0800000000000000
+      internalID: -2747433715503788988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 131
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69c2cd6350a258a0800000000000000
+      internalID: -6317811047063172753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 151
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f949424332da520800000000000000
+      internalID: 2714864857233268566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 151
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737189c47a49bd790800000000000000
+      internalID: -7504240907817314505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 149
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f9d7d26c2a866e0800000000000000
+      internalID: -1844045075357786242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae810d31fcdab70800000000000000
+      internalID: 8912006921638701694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319df05ca0ec83d0800000000000000
+      internalID: -3202938204269473482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c99858672c5160800000000000000
+      internalID: 7015525648652945050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10cdce4952599ad0800000000000000
+      internalID: -2695032358476857313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d7b2d438dd04df0800000000000000
+      internalID: -197914827599151841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 122
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0253fb80853d10800000000000000
+      internalID: 2104729739436624527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 122
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6309d5f341d4db0800000000000000
+      internalID: -4806162964949223682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 130
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f36cf3a4835c8a0800000000000000
+      internalID: -6285555813376966795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 133
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f8cc8b90c3e4a0800000000000000
+      internalID: -6565192057461606096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61cd1e24ab0213c0800000000000000
+      internalID: -4390433886956568212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e31bb3658ac6d20800000000000000
+      internalID: 3273176117513633413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83848b439f2fa13b0800000000000000
+      internalID: -5540849239380703176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 139
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235eccfcd2f52320800000000000000
+      internalID: 2532697396413879078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 142
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a7d92c930d0750800000000000000
+      internalID: 6272673825248748564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0a426abd902ee0800000000000000
+      internalID: -1287856069589463892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 127
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949199ddf289b530800000000000000
+      internalID: 3871269381490185373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fe380e70031c0c0800000000000000
+      internalID: -4557308537532584046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 103
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad061dd7152406930800000000000000
+      internalID: 4134377375696773338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 102
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7b6e9c7ee903030800000000000000
+      internalID: 3472450031064627163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b38174688c93f8b0800000000000000
+      internalID: -5119576241775475784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 106
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a2c9175cdfc420800000000000000
+      internalID: 2652580972196963048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceed9f94afc6ef80800000000000000
+      internalID: -8077540575682892090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 106
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e776db481ddb26600800000000000000
+      internalID: 460138819518031742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88332468b3c45e1c0800000000000000
+      internalID: -4475086836183452792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 109
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a03be20ad882c60800000000000000
+      internalID: 7793634874282412565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 108
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b2f1fc924ee4b0800000000000000
+      internalID: -5409312860583840702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d4f71dc29d0d40800000000000000
+      internalID: 5552255325185562026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c837910c1e30b8c0800000000000000
+      internalID: -3985617380216194875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4fa9394b2019d10800000000000000
+      internalID: 2130487073316730043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b1e1883856dd80800000000000000
+      internalID: -8226290669625166303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 92
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a5c086a6165570800000000000000
+      internalID: 8454970254815504112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 103
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c032717a6ea5cc20800000000000000
+      internalID: 3226176480273903817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28fd1be7f4ac2c0800000000000000
+      internalID: -4410625479487290628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ec841247a19810800000000000000
+      internalID: 1770380030787773695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 91
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cedb93ca69a87c0800000000000000
+      internalID: -4068273646928532364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 94
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44c22b8da33e630800000000000000
+      internalID: 3955069600138020015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 108
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2af4f5a6fd303c0800000000000000
+      internalID: -4394423163424890117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d33f7fae655364f0800000000000000
+      internalID: -836731171881667624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791b34b2d4555ce0800000000000000
+      internalID: -1417133243794515600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 71
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b6b7909dd0d030800000000000000
+      internalID: 3517554922066719936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 78
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7502bb18d70796410800000000000000
+      internalID: 1470830437662924887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad90ca7dbabcadf0800000000000000
+      internalID: -167553763148522068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d514e83ae0de4d230800000000000000
+      internalID: 3662813044088389981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 77
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f916ce4beb3ce840800000000000000
+      internalID: 5254640747059485173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c1078dd1fd01060800000000000000
+      internalID: 6922277946546723840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba295dda6b10da9c0800000000000000
+      internalID: -3914470617002962261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 87
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f9718bd8e23d670800000000000000
+      internalID: 8562238502775267099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80db1d3d7cfb36f0800000000000000
+      internalID: -703691301927006068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76e68db01b72760800000000000000
+      internalID: 7433104374432163772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 87
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3bb64e9523e3270800000000000000
+      internalID: 8232072530545587147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 36
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1239d62bc935b90800000000000000
+      internalID: -7254282284607266360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 64
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2725ca5f5dcaa070800000000000000
+      internalID: 8118527087717197611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 67
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350bbc94dcb076e70800000000000000
+      internalID: 9108261747714404435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 82
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1606cf613ddf40800000000000000
+      internalID: 5754810254982781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c012fbbc0dfbddc0800000000000000
+      internalID: -3613016044900052796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_92
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 79
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75282c4b0fcfc2ef0800000000000000
+      internalID: -131452178345590185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_93
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbdc0e462bcc6d0800000000000000
+      internalID: -2968801908005946571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0c6368affac5c0800000000000000
+      internalID: -4194259004254582129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 54
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a69122e2f4d3e30800000000000000
+      internalID: 4484827863490062946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_96
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fdaeaab3c64500800000000000000
+      internalID: 380206425121355449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 61
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2489df8b0f620ec50800000000000000
+      internalID: 6692391861610190914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_98
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca5048c517b9de0800000000000000
+      internalID: -1325341023164584809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_99
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 42
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec38440a75c1e99e0800000000000000
+      internalID: -1612820453875481650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 44
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6419b1c04146800800000000000000
+      internalID: 604630292209157812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c2b03a0e5ce760800000000000000
+      internalID: 7488463678269998087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_102
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd082abed8f97c980800000000000000
+      internalID: -8518664738255503140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_103
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 37
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605d8725c95c8e40800000000000000
+      internalID: 5659997535004872800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_104
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 68
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80230c8502dc55280800000000000000
+      internalID: -9055105936946875896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_105
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 60
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0366bbb76cce78d0800000000000000
+      internalID: -2846613168548584693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_106
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 51
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd558232a65135f0800000000000000
+      internalID: -778746005926093366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 51
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263402eb0328f9d0800000000000000
+      internalID: -2740401839311407579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 50
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89988ff56c7332570800000000000000
+      internalID: 8440651451775617432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e2763ebd4c6760800000000000000
+      internalID: 7452416962743952007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceed12a90e13a5d0800000000000000
+      internalID: -3052563095703654705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f9575c007722500800000000000000
+      internalID: 369988964594327407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b684876941425f20800000000000000
+      internalID: 3409859651398043316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d5011b9ee56c730800000000000000
+      internalID: 4019004075265777014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6101cc37ae97b20800000000000000
+      internalID: 3132792798878635762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d26a9226f9e1760800000000000000
+      internalID: 7430551679162264842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 32
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3307e0cb6dbfc0ff0800000000000000
+      internalID: -68402994620764109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_117
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 24
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde63286e22b7c50800000000000000
+      internalID: 6663958447047241143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b33e6fde25cf20800000000000000
+      internalID: 3442209027356080371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_119
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 30
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4da94f1ee8bf30800000000000000
+      internalID: 4591681638251711103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 31
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7273839b08ce99220800000000000000
+      internalID: 2493283906333718311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_121
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 27
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4a2dbb2aa5d740800000000000000
+      internalID: 5176230451566234670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_122
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c32d41d2614a60800000000000000
+      internalID: 7656509492588429442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 28
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b92051030919c960800000000000000
+      internalID: 7622651344998902195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_124
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f407956b571ad8f20800000000000000
+      internalID: 3426572418441375823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_125
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecfff785b08e8eb0800000000000000
+      internalID: -4715690242651194141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2a9d38c14b99e0800000000000000
+      internalID: -1613623713199411769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_127
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b16393a23637f20800000000000000
+      internalID: 3419185575103961921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_128
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c785c2f8bfdf74770800000000000000
+      internalID: 8595117670740547708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036dc417569b1900800000000000000
+      internalID: 656283471467864846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_130
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf59612640458d40800000000000000
+      internalID: 5585941582775410603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_131
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15039d346d9fe49d0800000000000000
+      internalID: -2788016420639133615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_132
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c09ea896e137ae0800000000000000
+      internalID: -1552864007861760971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_133
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df71888166497d20800000000000000
+      internalID: 3276727588604706773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b871b8cd8821420800000000000000
+      internalID: 2599290415753956154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_135
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cda4d8454a40d70800000000000000
+      internalID: 9008505837702536310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_136
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3beb8cbc9f407b0800000000000000
+      internalID: -5258803811220278308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_137
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e205cb460135f60800000000000000
+      internalID: 8021773386119130775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_138
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa9b45b2924f4f20800000000000000
+      internalID: 3409016640817044209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_139
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d8a6dc79f0f8560800000000000000
+      internalID: 7318085064161136030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_140
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75dc355fc008be0800000000000000
+      internalID: -1477166429965035613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_141
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f5a355baa136e10800000000000000
+      internalID: 2189623167003811723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pH64_plants_OGA_alpha_142
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c3dee2aafafabe0800000000000000
+      internalID: -1463758208405521408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pH64_plants_OGA_alpha_0: 1926409074550841705
+      pH64_plants_OGA_alpha_1: -4992884251737989838
+      pH64_plants_OGA_alpha_10: 4065236504236002150
+      pH64_plants_OGA_alpha_100: 604630292209157812
+      pH64_plants_OGA_alpha_101: 7488463678269998087
+      pH64_plants_OGA_alpha_102: -8518664738255503140
+      pH64_plants_OGA_alpha_103: 5659997535004872800
+      pH64_plants_OGA_alpha_104: -9055105936946875896
+      pH64_plants_OGA_alpha_105: -2846613168548584693
+      pH64_plants_OGA_alpha_106: -778746005926093366
+      pH64_plants_OGA_alpha_107: -2740401839311407579
+      pH64_plants_OGA_alpha_108: 8440651451775617432
+      pH64_plants_OGA_alpha_109: 7452416962743952007
+      pH64_plants_OGA_alpha_11: 5578948984608897928
+      pH64_plants_OGA_alpha_110: -3052563095703654705
+      pH64_plants_OGA_alpha_111: 369988964594327407
+      pH64_plants_OGA_alpha_112: 3409859651398043316
+      pH64_plants_OGA_alpha_113: 4019004075265777014
+      pH64_plants_OGA_alpha_114: 3132792798878635762
+      pH64_plants_OGA_alpha_115: 7430551679162264842
+      pH64_plants_OGA_alpha_116: -68402994620764109
+      pH64_plants_OGA_alpha_117: 6663958447047241143
+      pH64_plants_OGA_alpha_118: 3442209027356080371
+      pH64_plants_OGA_alpha_119: 4591681638251711103
+      pH64_plants_OGA_alpha_12: 2267042505615250998
+      pH64_plants_OGA_alpha_120: 2493283906333718311
+      pH64_plants_OGA_alpha_121: 5176230451566234670
+      pH64_plants_OGA_alpha_122: 7656509492588429442
+      pH64_plants_OGA_alpha_123: 7622651344998902195
+      pH64_plants_OGA_alpha_124: 3426572418441375823
+      pH64_plants_OGA_alpha_125: -4715690242651194141
+      pH64_plants_OGA_alpha_126: -1613623713199411769
+      pH64_plants_OGA_alpha_127: 3419185575103961921
+      pH64_plants_OGA_alpha_128: 8595117670740547708
+      pH64_plants_OGA_alpha_129: 656283471467864846
+      pH64_plants_OGA_alpha_13: -4650157403307803225
+      pH64_plants_OGA_alpha_130: 5585941582775410603
+      pH64_plants_OGA_alpha_131: -2788016420639133615
+      pH64_plants_OGA_alpha_132: -1552864007861760971
+      pH64_plants_OGA_alpha_133: 3276727588604706773
+      pH64_plants_OGA_alpha_134: 2599290415753956154
+      pH64_plants_OGA_alpha_135: 9008505837702536310
+      pH64_plants_OGA_alpha_136: -5258803811220278308
+      pH64_plants_OGA_alpha_137: 8021773386119130775
+      pH64_plants_OGA_alpha_138: 3409016640817044209
+      pH64_plants_OGA_alpha_139: 7318085064161136030
+      pH64_plants_OGA_alpha_14: 2578823868162233734
+      pH64_plants_OGA_alpha_140: -1477166429965035613
+      pH64_plants_OGA_alpha_141: 2189623167003811723
+      pH64_plants_OGA_alpha_142: -1463758208405521408
+      pH64_plants_OGA_alpha_15: -6172358478467515908
+      pH64_plants_OGA_alpha_16: -1436086450960047285
+      pH64_plants_OGA_alpha_17: 8287878384055635818
+      pH64_plants_OGA_alpha_18: -2989546489905337530
+      pH64_plants_OGA_alpha_19: 5617304132125052103
+      pH64_plants_OGA_alpha_2: 5052889092204568326
+      pH64_plants_OGA_alpha_20: -2959042312097050182
+      pH64_plants_OGA_alpha_21: 356558907707751328
+      pH64_plants_OGA_alpha_22: -3516070244704695644
+      pH64_plants_OGA_alpha_23: 1145267490310768115
+      pH64_plants_OGA_alpha_24: 1362548370756195406
+      pH64_plants_OGA_alpha_25: -1917475831121302578
+      pH64_plants_OGA_alpha_26: -6467175946233753287
+      pH64_plants_OGA_alpha_27: -1368813249596754111
+      pH64_plants_OGA_alpha_28: -8881942756771205416
+      pH64_plants_OGA_alpha_29: -8676262326650169779
+      pH64_plants_OGA_alpha_3: -3765727260042557772
+      pH64_plants_OGA_alpha_30: -5985724133418217202
+      pH64_plants_OGA_alpha_31: -920355945735713431
+      pH64_plants_OGA_alpha_32: -2747433715503788988
+      pH64_plants_OGA_alpha_33: -6317811047063172753
+      pH64_plants_OGA_alpha_34: 2714864857233268566
+      pH64_plants_OGA_alpha_35: -7504240907817314505
+      pH64_plants_OGA_alpha_36: -1844045075357786242
+      pH64_plants_OGA_alpha_37: 8912006921638701694
+      pH64_plants_OGA_alpha_38: -3202938204269473482
+      pH64_plants_OGA_alpha_39: 7015525648652945050
+      pH64_plants_OGA_alpha_4: 268070929937783249
+      pH64_plants_OGA_alpha_40: -2695032358476857313
+      pH64_plants_OGA_alpha_41: -197914827599151841
+      pH64_plants_OGA_alpha_42: 2104729739436624527
+      pH64_plants_OGA_alpha_43: -4806162964949223682
+      pH64_plants_OGA_alpha_44: -6285555813376966795
+      pH64_plants_OGA_alpha_45: -6565192057461606096
+      pH64_plants_OGA_alpha_46: -4390433886956568212
+      pH64_plants_OGA_alpha_47: 3273176117513633413
+      pH64_plants_OGA_alpha_48: -5540849239380703176
+      pH64_plants_OGA_alpha_49: 2532697396413879078
+      pH64_plants_OGA_alpha_5: -5935090884550640673
+      pH64_plants_OGA_alpha_50: 6272673825248748564
+      pH64_plants_OGA_alpha_51: -1287856069589463892
+      pH64_plants_OGA_alpha_52: 3871269381490185373
+      pH64_plants_OGA_alpha_53: -4557308537532584046
+      pH64_plants_OGA_alpha_54: 4134377375696773338
+      pH64_plants_OGA_alpha_55: 3472450031064627163
+      pH64_plants_OGA_alpha_56: -5119576241775475784
+      pH64_plants_OGA_alpha_57: 2652580972196963048
+      pH64_plants_OGA_alpha_58: -8077540575682892090
+      pH64_plants_OGA_alpha_59: 460138819518031742
+      pH64_plants_OGA_alpha_6: 3287136070919369546
+      pH64_plants_OGA_alpha_60: -4475086836183452792
+      pH64_plants_OGA_alpha_61: 7793634874282412565
+      pH64_plants_OGA_alpha_62: -5409312860583840702
+      pH64_plants_OGA_alpha_63: 5552255325185562026
+      pH64_plants_OGA_alpha_64: -3985617380216194875
+      pH64_plants_OGA_alpha_65: 2130487073316730043
+      pH64_plants_OGA_alpha_66: -8226290669625166303
+      pH64_plants_OGA_alpha_67: 8454970254815504112
+      pH64_plants_OGA_alpha_68: 3226176480273903817
+      pH64_plants_OGA_alpha_69: -4410625479487290628
+      pH64_plants_OGA_alpha_7: 2084407874512950041
+      pH64_plants_OGA_alpha_70: 1770380030787773695
+      pH64_plants_OGA_alpha_71: -4068273646928532364
+      pH64_plants_OGA_alpha_72: 3955069600138020015
+      pH64_plants_OGA_alpha_73: -4394423163424890117
+      pH64_plants_OGA_alpha_74: -836731171881667624
+      pH64_plants_OGA_alpha_75: -1417133243794515600
+      pH64_plants_OGA_alpha_76: 3517554922066719936
+      pH64_plants_OGA_alpha_77: 1470830437662924887
+      pH64_plants_OGA_alpha_78: -167553763148522068
+      pH64_plants_OGA_alpha_79: 3662813044088389981
+      pH64_plants_OGA_alpha_8: -774177921939345537
+      pH64_plants_OGA_alpha_80: 5254640747059485173
+      pH64_plants_OGA_alpha_81: 6922277946546723840
+      pH64_plants_OGA_alpha_82: -3914470617002962261
+      pH64_plants_OGA_alpha_83: 8562238502775267099
+      pH64_plants_OGA_alpha_84: -703691301927006068
+      pH64_plants_OGA_alpha_85: 7433104374432163772
+      pH64_plants_OGA_alpha_86: 8232072530545587147
+      pH64_plants_OGA_alpha_87: -7254282284607266360
+      pH64_plants_OGA_alpha_88: 8118527087717197611
+      pH64_plants_OGA_alpha_89: 9108261747714404435
+      pH64_plants_OGA_alpha_9: -3488927765070193903
+      pH64_plants_OGA_alpha_90: 5754810254982781678
+      pH64_plants_OGA_alpha_91: -3613016044900052796
+      pH64_plants_OGA_alpha_92: -131452178345590185
+      pH64_plants_OGA_alpha_93: -2968801908005946571
+      pH64_plants_OGA_alpha_94: -4194259004254582129
+      pH64_plants_OGA_alpha_95: 4484827863490062946
+      pH64_plants_OGA_alpha_96: 380206425121355449
+      pH64_plants_OGA_alpha_97: 6692391861610190914
+      pH64_plants_OGA_alpha_98: -1325341023164584809
+      pH64_plants_OGA_alpha_99: -1612820453875481650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

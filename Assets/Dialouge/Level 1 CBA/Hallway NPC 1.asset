@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: Hallway NPC 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: 'Student '
+  portrait: {fileID: -2697585337863558156, guid: 424627f44474fb14c97820b3b80dfcf0, type: 3}
+  nodes:
+  - text: Principal ba yun?
+    choices: []
+    nextNodeIndex: 1
+  - text: 'Medyo, iba boses niya '
+    choices: []
+    nextNodeIndex: 2
+  - text: Tra sa AC
+    choices: []
+    nextNodeIndex: -1

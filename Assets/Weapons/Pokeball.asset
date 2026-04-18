@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9391589684a7f4296d8e1568e0dce2, type: 3}
+  m_Name: Pokeball
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  id: pokeball_1
+  weaponName: Ash's Pokeball
+  weaponType: 4
+  damage: 60
+  attackRate: 3
+  attackRange: 0
+  meleeHitboxSize: {x: 1.5, y: 0.8}
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 12
+  projectileLifetime: 2
+  rotateProjectileToDirection: 1
+  laserPrefab: {fileID: 0}
+  laserDistance: 6
+  laserThickness: 0.6
+  laserDuration: 0.25
+  explosionRadius: 1.75
+  impactEffectPrefab: {fileID: 0}
+  spawnPrefab: {fileID: 7952071594595439357, guid: bcc107943a7168c4d88b8e413133d654, type: 3}
+  spawnCount: 1
+  spawnLifetime: 7
+  spawnOffset: {x: 1, y: 0}
+  spawnStep: {x: 0.8, y: 0}
+  healToFull: 1
+  healAmount: 0
+  consumeOnUse: 1
+  useSfx: {fileID: 8300000, guid: 554f2a7c31845ba44aaf1dce60ba054d, type: 3}
+  useSfxVolume: 1
+  useSfxPitch: 1
+  loopUseSfxWhileActive: 0
+  weaponSprite: {fileID: 3535992981458867456, guid: 67f0f383985f5b84bbcac2f2bdffe757, type: 3}

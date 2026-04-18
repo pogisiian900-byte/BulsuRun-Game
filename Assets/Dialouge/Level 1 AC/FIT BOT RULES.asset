@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: FIT BOT RULES
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: FIT BOT
+  portrait: {fileID: 399639461857260559, guid: ce0c43b032408104c9e8ec20cb6e4740, type: 3}
+  nodes:
+  - text: Heres the rules of my Game!
+    choices: []
+    nextNodeIndex: 1
+  - text: 'Try and Dodge the projectiles throwned '
+    choices: []
+    nextNodeIndex: 2
+  - text: 'If you get hit by one then you go back to the starting line '
+    choices: []
+    nextNodeIndex: 3
+  - text: This doesn't hurt you physically!!!
+    choices: []
+    nextNodeIndex: 4
+  - text: This is a Mental Game!!!!!!!!
+    choices: []
+    nextNodeIndex: 5
+  - text: Goodluck!
+    choices: []
+    nextNodeIndex: -1

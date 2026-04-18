@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: e9057ed6a48eef3498f53790e6b330e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1537148158870971609
+    second: obstable 1_0
+  - first:
+      213: -7444030219484792268
+    second: obstable 1_1
+  - first:
+      213: 649907888282814237
+    second: obstable 1_2
+  - first:
+      213: 7831055760548818472
+    second: obstable 1_3
+  - first:
+      213: 2110947614299665055
+    second: obstable 1_4
+  - first:
+      213: -2976873371197995715
+    second: obstable 1_5
+  - first:
+      213: 7296329911208133232
+    second: obstable 1_6
+  - first:
+      213: 1620321377963140052
+    second: obstable 1_7
+  - first:
+      213: 7625025001250809537
+    second: obstable 1_8
+  - first:
+      213: -7851441140448466534
+    second: obstable 1_9
+  - first:
+      213: 6416935577524515924
+    second: obstable 1_10
+  - first:
+      213: -2163863087859233378
+    second: obstable 1_11
+  - first:
+      213: 4010034002873792290
+    second: obstable 1_12
+  - first:
+      213: -5159498994061382904
+    second: obstable 1_13
+  - first:
+      213: 8142285379097554316
+    second: obstable 1_14
+  - first:
+      213: 8071192691677333000
+    second: obstable 1_15
+  - first:
+      213: -3095562932490486508
+    second: obstable 1_16
+  - first:
+      213: -649149138815052495
+    second: obstable 1_17
+  - first:
+      213: 7868647593734141313
+    second: obstable 1_18
+  - first:
+      213: -8137665637757217001
+    second: obstable 1_19
+  - first:
+      213: -4903040604331554584
+    second: obstable 1_20
+  - first:
+      213: 5648535163220982995
+    second: obstable 1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obstable 1_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 957
+        width: 1566
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d466a83b1c055510800000000000000
+      internalID: 1537148158870971609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_1
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 884
+        width: 531
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af55e94fd71b890800000000000000
+      internalID: -7444030219484792268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 593
+        width: 396
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1742d1f7cfe40900800000000000000
+      internalID: 649907888282814237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 592
+        width: 413
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ee9c739bf7dac60800000000000000
+      internalID: 7831055760548818472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_4
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 594
+        width: 358
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f923ac1cba79b4d10800000000000000
+      internalID: 2110947614299665055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_5
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 588
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358c68e07500b6d0800000000000000
+      internalID: -2976873371197995715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_6
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 592
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0724e998565c14560800000000000000
+      internalID: 7296329911208133232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_7
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 596
+        width: 406
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e67b55b98c7610800000000000000
+      internalID: 1620321377963140052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_8
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 597
+        width: 406
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e60be6d781d960800000000000000
+      internalID: 7625025001250809537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_9
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 606
+        width: 362
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996ea8a1e31a0390800000000000000
+      internalID: -7851441140448466534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 323
+        width: 635
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4543aecc8e88d0950800000000000000
+      internalID: 6416935577524515924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 338
+        width: 396
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d02997cf968f1e0800000000000000
+      internalID: -2163863087859233378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_12
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 311
+        width: 649
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b786fda086a730800000000000000
+      internalID: 4010034002873792290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_13
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 349
+        width: 372
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6cf74007c568b0800000000000000
+      internalID: -5159498994061382904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 96
+        width: 423
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d67f0a9653ff070800000000000000
+      internalID: 8142285379097554316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 92
+        width: 393
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80608257df2a20070800000000000000
+      internalID: 8071192691677333000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_16
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 84
+        width: 336
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db905f9e95a05d0800000000000000
+      internalID: -3095562932490486508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_17
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 82
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359dae2c42cdf6f0800000000000000
+      internalID: -649149138815052495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_18
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 78
+        width: 433
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185714feb4d033d60800000000000000
+      internalID: 7868647593734141313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_19
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 75
+        width: 401
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7171498b734311f80800000000000000
+      internalID: -8137665637757217001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_20
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 66
+        width: 343
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8408b3c86e4fbb0800000000000000
+      internalID: -4903040604331554584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 83
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf611cdc0a36e40800000000000000
+      internalID: 5648535163220982995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_22
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 801
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a072040a58bb4c92f8de3a5a65069
+      internalID: -1654548304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_23
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de481f8625e1c7c4ca262dc3016b53de
+      internalID: -503237881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstable 1_24
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 714
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1bbf03c3999940bda813d6b8a5718
+      internalID: -673205644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 721e2ec7e54098c4db5eb50b9b57d054
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      obstable 1_0: 1537148158870971609
+      obstable 1_1: -7444030219484792268
+      obstable 1_10: 6416935577524515924
+      obstable 1_11: -2163863087859233378
+      obstable 1_12: 4010034002873792290
+      obstable 1_13: -5159498994061382904
+      obstable 1_14: 8142285379097554316
+      obstable 1_15: 8071192691677333000
+      obstable 1_16: -3095562932490486508
+      obstable 1_17: -649149138815052495
+      obstable 1_18: 7868647593734141313
+      obstable 1_19: -8137665637757217001
+      obstable 1_2: 649907888282814237
+      obstable 1_20: -4903040604331554584
+      obstable 1_21: 5648535163220982995
+      obstable 1_22: -1654548304
+      obstable 1_23: -503237881
+      obstable 1_24: -673205644
+      obstable 1_3: 7831055760548818472
+      obstable 1_4: 2110947614299665055
+      obstable 1_5: -2976873371197995715
+      obstable 1_6: 7296329911208133232
+      obstable 1_7: 1620321377963140052
+      obstable 1_8: 7625025001250809537
+      obstable 1_9: -7851441140448466534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

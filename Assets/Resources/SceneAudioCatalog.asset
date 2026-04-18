@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d94d535d9b24694b2a7c5533b9d7d7e, type: 3}
+  m_Name: SceneAudioCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::SceneAudioCatalog
+  fallbackClip: {fileID: 0}
+  fallbackVolume: 1
+  fallbackLoop: 1
+  stopWhenSceneHasNoEntry: 1
+  coinPickupClip: {fileID: 0}
+  stunClip: {fileID: 8300000, guid: d18f9d17d869cf34a888f498f2d10ebc, type: 3}
+  explosionClip: {fileID: 8300000, guid: db233cb355d0c4944b26023429d363e1, type: 3}
+  turretShotClip: {fileID: 8300000, guid: d6caa5a06ca3f2840a3dd97e518eea4c, type: 3}
+  stunTurretShotClip: {fileID: 8300000, guid: d18f9d17d869cf34a888f498f2d10ebc, type: 3}
+  scenes:
+  - sceneName: Bootstrap
+    musicClip: {fileID: 0}
+    volume: 1
+    loop: 1
+  - sceneName: Video Scene
+    musicClip: {fileID: 0}
+    volume: 1
+    loop: 1
+  - sceneName: Lobby
+    musicClip: {fileID: 8300000, guid: 3dae3de81ba68b24799a872a358a3d04, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: Multiplayer
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: Singleplayer
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: Start Screen
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: Worlds
+    musicClip: {fileID: 8300000, guid: 3dae3de81ba68b24799a872a358a3d04, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: Ability Selection
+    musicClip: {fileID: 8300000, guid: 3dae3de81ba68b24799a872a358a3d04, type: 3}
+    volume: 1
+    loop: 1
+  - sceneName: CBA LEVELS
+    musicClip: {fileID: 8300000, guid: f0354171a13f3614e8ecb5f6621781cc, type: 3}
+    volume: 0.3
+    loop: 1
+  - sceneName: Level 1 CBA Classroom
+    musicClip: {fileID: 8300000, guid: f0354171a13f3614e8ecb5f6621781cc, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 1 CBA Hallway Tutorial
+    musicClip: {fileID: 8300000, guid: f0354171a13f3614e8ecb5f6621781cc, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 1 CBA Hallway
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 2 CBA
+    musicClip: {fileID: 8300000, guid: f0354171a13f3614e8ecb5f6621781cc, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 3 CBA
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: CBA Mini Boss
+    musicClip: {fileID: 8300000, guid: f0354171a13f3614e8ecb5f6621781cc, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: AC LEVELS
+    musicClip: {fileID: 8300000, guid: 4e68823bd2c436349a98e3360cddb537, type: 3}
+    volume: 0.5
+    loop: 1
+  - sceneName: AC Level 1
+    musicClip: {fileID: 8300000, guid: 4e68823bd2c436349a98e3360cddb537, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: AC Level 2
+    musicClip: {fileID: 8300000, guid: 4e68823bd2c436349a98e3360cddb537, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: AC Mini Boss
+    musicClip: {fileID: 8300000, guid: 4e68823bd2c436349a98e3360cddb537, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Admin LEVELS
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.5
+    loop: 1
+  - sceneName: Admin Mini Boss
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 1 Admin Inside
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 1 Admin Outside
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 2nd Floor Admin
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 3rd Floor Admin
+    musicClip: {fileID: 8300000, guid: 74c954cd5de40e74eba8abd0fd002396, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Pancho LEVELS
+    musicClip: {fileID: 8300000, guid: 17d17c051aafa4944a7dbb8a16d1a2a8, type: 3}
+    volume: 0.5
+    loop: 1
+  - sceneName: Level 1 Pancho 1st Floor
+    musicClip: {fileID: 8300000, guid: 17d17c051aafa4944a7dbb8a16d1a2a8, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Level 2 Pancho 2nd Floor
+    musicClip: {fileID: 8300000, guid: 17d17c051aafa4944a7dbb8a16d1a2a8, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Pancho 1st Floor Back
+    musicClip: {fileID: 8300000, guid: 17d17c051aafa4944a7dbb8a16d1a2a8, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Pancho Mini Boss
+    musicClip: {fileID: 8300000, guid: 17d17c051aafa4944a7dbb8a16d1a2a8, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Gate LEVELS
+    musicClip: {fileID: 8300000, guid: 9778308a13edeae4ba3f3b1ff4e59001, type: 3}
+    volume: 0.5
+    loop: 1
+  - sceneName: Gate 1
+    musicClip: {fileID: 8300000, guid: 44dca3076c69d0e40a16b6f1ea7aa189, type: 3}
+    volume: 0.8
+    loop: 1
+  - sceneName: Gate 2
+    musicClip: {fileID: 8300000, guid: 44dca3076c69d0e40a16b6f1ea7aa189, type: 3}
+    volume: 0.8
+    loop: 1

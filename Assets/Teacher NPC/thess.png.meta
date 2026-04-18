@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 6a7a3070509062b4f9b90e0b0d6d7769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3594151593930079643
+    second: thess_0
+  - first:
+      213: -6000395879063536350
+    second: thess_1
+  - first:
+      213: -2798165784989633673
+    second: thess_2
+  - first:
+      213: -7378129728134182044
+    second: thess_3
+  - first:
+      213: 5548497865037073045
+    second: thess_4
+  - first:
+      213: -7385990663042658620
+    second: thess_5
+  - first:
+      213: -1995099014288765048
+    second: thess_6
+  - first:
+      213: -3071605109939122803
+    second: thess_7
+  - first:
+      213: 7364457016155326049
+    second: thess_8
+  - first:
+      213: 127134023181982306
+    second: thess_9
+  - first:
+      213: 616099785950956794
+    second: thess_10
+  - first:
+      213: -8383442235527665434
+    second: thess_11
+  - first:
+      213: -2711299665682504850
+    second: thess_12
+  - first:
+      213: 986039358033375204
+    second: thess_13
+  - first:
+      213: -9026931317010023764
+    second: thess_14
+  - first:
+      213: 2835656301496863055
+    second: thess_15
+  - first:
+      213: -4625342018117083022
+    second: thess_16
+  - first:
+      213: -805466550428686726
+    second: thess_17
+  - first:
+      213: -7419631560186558440
+    second: thess_18
+  - first:
+      213: 9009098388110723861
+    second: thess_19
+  - first:
+      213: -5212292860577098319
+    second: thess_20
+  - first:
+      213: 8193560505155096414
+    second: thess_21
+  - first:
+      213: -2329462257926930290
+    second: thess_22
+  - first:
+      213: 8283099498214689172
+    second: thess_23
+  - first:
+      213: -5130851802992670690
+    second: thess_24
+  - first:
+      213: 8734673702671827795
+    second: thess_25
+  - first:
+      213: 2806114230700476902
+    second: thess_26
+  - first:
+      213: -4794829653941588241
+    second: thess_27
+  - first:
+      213: 2491212848554648028
+    second: thess_28
+  - first:
+      213: 7968174063553706588
+    second: thess_29
+  - first:
+      213: -274286548848017209
+    second: thess_30
+  - first:
+      213: 235251034353760612
+    second: thess_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thess_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 478
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c4eefa220f1ec0800000000000000
+      internalID: -3594151593930079643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 470
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d33bc4dbf4abca0800000000000000
+      internalID: -6000395879063536350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 470
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7737a0b3b0bea29d0800000000000000
+      internalID: -2798165784989633673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 470
+        width: 73
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b00df6a1e9b9990800000000000000
+      internalID: -7378129728134182044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 478
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4c8a3969300d40800000000000000
+      internalID: 5548497865037073045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 470
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce8df6ef90bf7990800000000000000
+      internalID: -7385990663042658620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 470
+        width: 73
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f0699540cff44e0800000000000000
+      internalID: -1995099014288765048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 470
+        width: 73
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcdc33d677f55d0800000000000000
+      internalID: -3071605109939122803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 318
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166429b33aec33660800000000000000
+      internalID: 7364457016155326049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 318
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad0a278bba3c100800000000000000
+      internalID: 127134023181982306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 318
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0dc7bd73dc8800800000000000000
+      internalID: 616099785950956794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 325
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ed5444b708ab80800000000000000
+      internalID: -8383442235527665434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 318
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63eb53b1578f5ad0800000000000000
+      internalID: -2711299665682504850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 318
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2226629d1fad00800000000000000
+      internalID: 986039358033375204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_14
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 315
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caab4cd3bc5e9b280800000000000000
+      internalID: -9026931317010023764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_15
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 323
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4981dbd1664a5720800000000000000
+      internalID: 2835656301496863055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 155
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270617dc0fb7fcfb0800000000000000
+      internalID: -4625342018117083022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 155
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a762d3f907862d4f0800000000000000
+      internalID: -805466550428686726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188dca286c280990800000000000000
+      internalID: -7419631560186558440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 165
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b42e1704fb60d70800000000000000
+      internalID: 9009098388110723861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_20
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 155
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55ffb52473aa7b0800000000000000
+      internalID: -5212292860577098319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 155
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f807b3edf55b170800000000000000
+      internalID: 8193560505155096414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_22
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 158
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80069e1b661cafd0800000000000000
+      internalID: -2329462257926930290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_23
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 165
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4998d4e9b1b73f270800000000000000
+      internalID: 8283099498214689172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180377387d8bc8b0800000000000000
+      internalID: -5130851802992670690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35343bc447bc73970800000000000000
+      internalID: 8734673702671827795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3
+        width: 69
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90210860251f620800000000000000
+      internalID: 2806114230700476902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 10
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee6d4675d7557db0800000000000000
+      internalID: -4794829653941588241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12df103e0929220800000000000000
+      internalID: 2491212848554648028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a7996f714a49e60800000000000000
+      internalID: 7968174063553706588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_30
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c00f3946d9813cf0800000000000000
+      internalID: -274286548848017209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thess_31
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 8
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f2bfb197c34300800000000000000
+      internalID: 235251034353760612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thess_0: -3594151593930079643
+      thess_1: -6000395879063536350
+      thess_10: 616099785950956794
+      thess_11: -8383442235527665434
+      thess_12: -2711299665682504850
+      thess_13: 986039358033375204
+      thess_14: -9026931317010023764
+      thess_15: 2835656301496863055
+      thess_16: -4625342018117083022
+      thess_17: -805466550428686726
+      thess_18: -7419631560186558440
+      thess_19: 9009098388110723861
+      thess_2: -2798165784989633673
+      thess_20: -5212292860577098319
+      thess_21: 8193560505155096414
+      thess_22: -2329462257926930290
+      thess_23: 8283099498214689172
+      thess_24: -5130851802992670690
+      thess_25: 8734673702671827795
+      thess_26: 2806114230700476902
+      thess_27: -4794829653941588241
+      thess_28: 2491212848554648028
+      thess_29: 7968174063553706588
+      thess_3: -7378129728134182044
+      thess_30: -274286548848017209
+      thess_31: 235251034353760612
+      thess_4: 5548497865037073045
+      thess_5: -7385990663042658620
+      thess_6: -1995099014288765048
+      thess_7: -3071605109939122803
+      thess_8: 7364457016155326049
+      thess_9: 127134023181982306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

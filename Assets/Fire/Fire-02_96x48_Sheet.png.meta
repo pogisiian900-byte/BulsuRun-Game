@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: bf26951fa404c394d94a2d2589536606
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8872718631237841795
+    second: Fire-02_96x48_Sheet_0
+  - first:
+      213: 1104052355339031338
+    second: Fire-02_96x48_Sheet_1
+  - first:
+      213: 3142084788597965452
+    second: Fire-02_96x48_Sheet_2
+  - first:
+      213: -459503759100074141
+    second: Fire-02_96x48_Sheet_3
+  - first:
+      213: -7340110520313158922
+    second: Fire-02_96x48_Sheet_4
+  - first:
+      213: -7483732912989011263
+    second: Fire-02_96x48_Sheet_5
+  - first:
+      213: 4352128151165524099
+    second: Fire-02_96x48_Sheet_6
+  - first:
+      213: -6177207331394117978
+    second: Fire-02_96x48_Sheet_7
+  - first:
+      213: -4634604855258464425
+    second: Fire-02_96x48_Sheet_8
+  - first:
+      213: -2729380566330610711
+    second: Fire-02_96x48_Sheet_9
+  - first:
+      213: -2067447234212067601
+    second: Fire-02_96x48_Sheet_10
+  - first:
+      213: -5725033834450697263
+    second: Fire-02_96x48_Sheet_11
+  - first:
+      213: 2346326882194378378
+    second: Fire-02_96x48_Sheet_12
+  - first:
+      213: 2954591982132205743
+    second: Fire-02_96x48_Sheet_13
+  - first:
+      213: 2065634330464240234
+    second: Fire-02_96x48_Sheet_14
+  - first:
+      213: 4711517442050464753
+    second: Fire-02_96x48_Sheet_15
+  - first:
+      213: -6919393376141789198
+    second: Fire-02_96x48_Sheet_16
+  - first:
+      213: 7577054786236511192
+    second: Fire-02_96x48_Sheet_17
+  - first:
+      213: -1620781300110411766
+    second: Fire-02_96x48_Sheet_18
+  - first:
+      213: -114496136221550696
+    second: Fire-02_96x48_Sheet_19
+  - first:
+      213: 7807804417969638961
+    second: Fire-02_96x48_Sheet_20
+  - first:
+      213: 8644157946665681963
+    second: Fire-02_96x48_Sheet_21
+  - first:
+      213: 6571534269837735549
+    second: Fire-02_96x48_Sheet_22
+  - first:
+      213: -879550918088136590
+    second: Fire-02_96x48_Sheet_23
+  - first:
+      213: -5382864747522937435
+    second: Fire-02_96x48_Sheet_24
+  - first:
+      213: -2460123934794962736
+    second: Fire-02_96x48_Sheet_25
+  - first:
+      213: 9149618334701980169
+    second: Fire-02_96x48_Sheet_26
+  - first:
+      213: -2844822147487832378
+    second: Fire-02_96x48_Sheet_27
+  - first:
+      213: -4665663448201571468
+    second: Fire-02_96x48_Sheet_28
+  - first:
+      213: 1696414122047035908
+    second: Fire-02_96x48_Sheet_29
+  - first:
+      213: 8539027749255716006
+    second: Fire-02_96x48_Sheet_30
+  - first:
+      213: 660289341755991689
+    second: Fire-02_96x48_Sheet_31
+  - first:
+      213: 4448962488796334624
+    second: Fire-02_96x48_Sheet_32
+  - first:
+      213: -6687842550759992609
+    second: Fire-02_96x48_Sheet_33
+  - first:
+      213: -2279640851177296865
+    second: Fire-02_96x48_Sheet_34
+  - first:
+      213: 2598582502148580796
+    second: Fire-02_96x48_Sheet_35
+  - first:
+      213: 5915532033335679946
+    second: Fire-02_96x48_Sheet_36
+  - first:
+      213: 3969853976003749382
+    second: Fire-02_96x48_Sheet_37
+  - first:
+      213: -3412952529835385354
+    second: Fire-02_96x48_Sheet_38
+  - first:
+      213: -2838642504741693976
+    second: Fire-02_96x48_Sheet_39
+  - first:
+      213: -677402405428883429
+    second: Fire-02_96x48_Sheet_40
+  - first:
+      213: -3471812536612773348
+    second: Fire-02_96x48_Sheet_41
+  - first:
+      213: -8006828879056547987
+    second: Fire-02_96x48_Sheet_42
+  - first:
+      213: 2517944481867459670
+    second: Fire-02_96x48_Sheet_43
+  - first:
+      213: 772295210080615701
+    second: Fire-02_96x48_Sheet_44
+  - first:
+      213: 1341333137144988781
+    second: Fire-02_96x48_Sheet_45
+  - first:
+      213: 179755347321192082
+    second: Fire-02_96x48_Sheet_46
+  - first:
+      213: -642086421856581261
+    second: Fire-02_96x48_Sheet_47
+  - first:
+      213: -7270632915067139153
+    second: Fire-02_96x48_Sheet_48
+  - first:
+      213: -639512990928174427
+    second: Fire-02_96x48_Sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c04112a65cdd480800000000000000
+      internalID: -8872718631237841795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a239a6584c1625f00800000000000000
+      internalID: 1104052355339031338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824a8eb77dea9b20800000000000000
+      internalID: 3142084788597965452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36722e104c38f99f0800000000000000
+      internalID: -459503759100074141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f260a01f50b22a90800000000000000
+      internalID: -7340110520313158922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d233be7dd56c30800000000000000
+      internalID: 4352128151165524099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae905c09a6264aa0800000000000000
+      internalID: -6177207331394117978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d349726f089c80b0800000000000000
+      internalID: -5725033834450697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cab1259b61d50e0800000000000000
+      internalID: -2279640851177296865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ac109405001420800000000000000
+      internalID: 2598582502148580796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbda60ea01381250800000000000000
+      internalID: 5915532033335679946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-02_96x48_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a28a72b25eff17f0800000000000000
+      internalID: -639512990928174427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfe373d1973a4224999bd9d30bf95e20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire-02_96x48_Sheet_0: -8872718631237841795
+      Fire-02_96x48_Sheet_1: 1104052355339031338
+      Fire-02_96x48_Sheet_10: -2067447234212067601
+      Fire-02_96x48_Sheet_11: -5725033834450697263
+      Fire-02_96x48_Sheet_12: 2346326882194378378
+      Fire-02_96x48_Sheet_13: 2954591982132205743
+      Fire-02_96x48_Sheet_14: 2065634330464240234
+      Fire-02_96x48_Sheet_15: 4711517442050464753
+      Fire-02_96x48_Sheet_16: -6919393376141789198
+      Fire-02_96x48_Sheet_17: 7577054786236511192
+      Fire-02_96x48_Sheet_18: -1620781300110411766
+      Fire-02_96x48_Sheet_19: -114496136221550696
+      Fire-02_96x48_Sheet_2: 3142084788597965452
+      Fire-02_96x48_Sheet_20: 7807804417969638961
+      Fire-02_96x48_Sheet_21: 8644157946665681963
+      Fire-02_96x48_Sheet_22: 6571534269837735549
+      Fire-02_96x48_Sheet_23: -879550918088136590
+      Fire-02_96x48_Sheet_24: -5382864747522937435
+      Fire-02_96x48_Sheet_25: -2460123934794962736
+      Fire-02_96x48_Sheet_26: 9149618334701980169
+      Fire-02_96x48_Sheet_27: -2844822147487832378
+      Fire-02_96x48_Sheet_28: -4665663448201571468
+      Fire-02_96x48_Sheet_29: 1696414122047035908
+      Fire-02_96x48_Sheet_3: -459503759100074141
+      Fire-02_96x48_Sheet_30: 8539027749255716006
+      Fire-02_96x48_Sheet_31: 660289341755991689
+      Fire-02_96x48_Sheet_32: 4448962488796334624
+      Fire-02_96x48_Sheet_33: -6687842550759992609
+      Fire-02_96x48_Sheet_34: -2279640851177296865
+      Fire-02_96x48_Sheet_35: 2598582502148580796
+      Fire-02_96x48_Sheet_36: 5915532033335679946
+      Fire-02_96x48_Sheet_37: 3969853976003749382
+      Fire-02_96x48_Sheet_38: -3412952529835385354
+      Fire-02_96x48_Sheet_39: -2838642504741693976
+      Fire-02_96x48_Sheet_4: -7340110520313158922
+      Fire-02_96x48_Sheet_40: -677402405428883429
+      Fire-02_96x48_Sheet_41: -3471812536612773348
+      Fire-02_96x48_Sheet_42: -8006828879056547987
+      Fire-02_96x48_Sheet_43: 2517944481867459670
+      Fire-02_96x48_Sheet_44: 772295210080615701
+      Fire-02_96x48_Sheet_45: 1341333137144988781
+      Fire-02_96x48_Sheet_46: 179755347321192082
+      Fire-02_96x48_Sheet_47: -642086421856581261
+      Fire-02_96x48_Sheet_48: -7270632915067139153
+      Fire-02_96x48_Sheet_49: -639512990928174427
+      Fire-02_96x48_Sheet_5: -7483732912989011263
+      Fire-02_96x48_Sheet_6: 4352128151165524099
+      Fire-02_96x48_Sheet_7: -6177207331394117978
+      Fire-02_96x48_Sheet_8: -4634604855258464425
+      Fire-02_96x48_Sheet_9: -2729380566330610711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

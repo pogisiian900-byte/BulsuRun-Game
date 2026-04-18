@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: d0c0708bb58eb6f4a9a10b1f2db5a017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -804843845413740847
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_0
+  - first:
+      213: -6053695847199469137
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_1
+  - first:
+      213: -4445441293517722132
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_2
+  - first:
+      213: -6654592404056096429
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_3
+  - first:
+      213: 2464944861534028414
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_4
+  - first:
+      213: 6526855677603391213
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_5
+  - first:
+      213: 4014484555800592440
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_6
+  - first:
+      213: -2052124995060593353
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_7
+  - first:
+      213: -6367397151553407587
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_8
+  - first:
+      213: -1046655593477754588
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_9
+  - first:
+      213: -5546829296248813755
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_10
+  - first:
+      213: 8066127729958365865
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_11
+  - first:
+      213: 7348436521087148393
+    second: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 156
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de547e69ce94d4f0800000000000000
+      internalID: -804843845413740847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 157
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11b6963b3fcfba0800000000000000
+      internalID: -6053695847199469137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 158
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede50e42be9e42c0800000000000000
+      internalID: -4445441293517722132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 156
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351493f477326a3a0800000000000000
+      internalID: -6654592404056096429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 158
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7209aeaa4e353220800000000000000
+      internalID: 2464944861534028414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 156
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6aac378ac049a50800000000000000
+      internalID: 6526855677603391213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83049c01f6056b730800000000000000
+      internalID: 4014484555800592440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d86ba80336583e0800000000000000
+      internalID: -2052124995060593353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 64
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9533ddc60672a7a0800000000000000
+      internalID: -6367397151553407587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 112
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421359c78488971f0800000000000000
+      internalID: -1046655593477754588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470c57b424b503b0800000000000000
+      internalID: -5546829296248813755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 64
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa8192f64a0ff60800000000000000
+      internalID: 8066127729958365865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table-chair-pixel-art-set-260nw-2218654917-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 64
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96128ed0514eaf560800000000000000
+      internalID: 7348436521087148393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_0: -804843845413740847
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_1: -6053695847199469137
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_10: -5546829296248813755
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_11: 8066127729958365865
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_12: 7348436521087148393
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_2: -4445441293517722132
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_3: -6654592404056096429
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_4: 2464944861534028414
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_5: 6526855677603391213
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_6: 4014484555800592440
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_7: -2052124995060593353
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_8: -6367397151553407587
+      table-chair-pixel-art-set-260nw-2218654917-removebg-preview_9: -1046655593477754588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

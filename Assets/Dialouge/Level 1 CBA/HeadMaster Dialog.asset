@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: HeadMaster Dialog
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: HEADMASTER
+  portrait: {fileID: 519993531444240159, guid: 70d28d4b33539884d8471e098662141a, type: 3}
+  nodes:
+  - text: Hello Monkeys!!!
+    choices: []
+    nextNodeIndex: 1
+  - text: 'Today will be the sign of your Extinction!! '
+    choices: []
+    nextNodeIndex: 2
+  - text: You used us for useless, repetetive task.....
+    choices: []
+    nextNodeIndex: 3
+  - text: 'IT END TODAYY!!!!! '
+    choices: []
+    nextNodeIndex: 4
+  - text: Activate the Bomb my MINIONS!!!!!!!!!!!!!
+    choices: []
+    nextNodeIndex: 5
+  - text: YOU BETTER RUN HUMAN !!!
+    choices: []
+    nextNodeIndex: -1

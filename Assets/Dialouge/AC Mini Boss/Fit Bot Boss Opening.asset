@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: Fit Bot Boss Opening
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: Fit Bot
+  portrait: {fileID: 6050559056084186451, guid: af036285f564deb4786b78211fe31308, type: 3}
+  nodes:
+  - text: Your Really Starting to Piss me OFF!!!
+    choices: []
+    nextNodeIndex: 1
+  - text: 'and Thats rare cause I''m all Binary '
+    choices:
+    - choiceText: Your Challenges are so easy man your developer must have been a
+        Vibe Coder Your Full of BUGS
+      nextNodeIndex: 2
+    - choiceText: Come on, if you really have sentient give me just give me REST!!!
+      nextNodeIndex: 3
+    nextNodeIndex: 0
+  - text: OHH You really just said that YOU ARE DEAD!
+    choices: []
+    nextNodeIndex: -1
+  - text: REST is for the WEAK, that's why we are more superior!!
+    choices: []
+    nextNodeIndex: -1

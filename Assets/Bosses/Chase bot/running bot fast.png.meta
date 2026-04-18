@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: f1808a31f8aaca74fbed5fdcaef311c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743644330141271452
+    second: running bot fast_0
+  - first:
+      213: 9150614800193230475
+    second: running bot fast_1
+  - first:
+      213: -1483138439088756930
+    second: running bot fast_2
+  - first:
+      213: 472779160308501353
+    second: running bot fast_3
+  - first:
+      213: 148734999654270096
+    second: running bot fast_4
+  - first:
+      213: -6162490817177641300
+    second: running bot fast_5
+  - first:
+      213: 2685045948305358651
+    second: running bot fast_6
+  - first:
+      213: -4981502781965535962
+    second: running bot fast_7
+  - first:
+      213: -503226645526266111
+    second: running bot fast_8
+  - first:
+      213: -7056194306189024655
+    second: running bot fast_9
+  - first:
+      213: 5813012837461585862
+    second: running bot fast_10
+  - first:
+      213: 8242888816319836614
+    second: running bot fast_11
+  - first:
+      213: 4572969607921633935
+    second: running bot fast_12
+  - first:
+      213: 1557596642925502938
+    second: running bot fast_13
+  - first:
+      213: -5076410298385474164
+    second: running bot fast_14
+  - first:
+      213: 3435487259135003083
+    second: running bot fast_15
+  - first:
+      213: -7987109790603316838
+    second: running bot fast_16
+  - first:
+      213: -2341784552309008465
+    second: running bot fast_17
+  - first:
+      213: 5050651983019762899
+    second: running bot fast_18
+  - first:
+      213: -7009877127481397732
+    second: running bot fast_19
+  - first:
+      213: -8690057912765806079
+    second: running bot fast_20
+  - first:
+      213: -503944508445911118
+    second: running bot fast_21
+  - first:
+      213: -2980920668297197318
+    second: running bot fast_22
+  - first:
+      213: -3344442768625296647
+    second: running bot fast_23
+  - first:
+      213: -2768233225754526366
+    second: running bot fast_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running bot fast_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 936
+        width: 356
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8613f1cda38dfe70800000000000000
+      internalID: 9150614800193230475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 939
+        width: 411
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3723699275da6be0800000000000000
+      internalID: -1483138439088756930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_3
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 930
+        width: 537
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b45633426af8600800000000000000
+      internalID: 472779160308501353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_4
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 930
+        width: 471
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948f04b1b9601200800000000000000
+      internalID: 148734999654270096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_5
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 936
+        width: 426
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae1586804f6a7aa0800000000000000
+      internalID: -6162490817177641300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_6
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 935
+        width: 425
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb7526013334520800000000000000
+      internalID: 2685045948305358651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 453
+        width: 385
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5996cab7fc89b0800000000000000
+      internalID: -5076410298385474164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 416
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94f1fc57d4daf20800000000000000
+      internalID: 3435487259135003083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 453
+        width: 537
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a917b0586f5182190800000000000000
+      internalID: -7987109790603316838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_17
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 448
+        width: 491
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7df136b5f408fd0800000000000000
+      internalID: -2341784552309008465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_18
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 453
+        width: 407
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4e3041835871640800000000000000
+      internalID: 5050651983019762899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running bot fast_20
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 453
+        width: 422
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8508ce56b66780800000000000000
+      internalID: -8690057912765806079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: caee16ce7016dc7459a5df3085036574
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running bot fast_0: -7743644330141271452
+      running bot fast_1: 9150614800193230475
+      running bot fast_10: 5813012837461585862
+      running bot fast_11: 8242888816319836614
+      running bot fast_12: 4572969607921633935
+      running bot fast_13: 1557596642925502938
+      running bot fast_14: -5076410298385474164
+      running bot fast_15: 3435487259135003083
+      running bot fast_16: -7987109790603316838
+      running bot fast_17: -2341784552309008465
+      running bot fast_18: 5050651983019762899
+      running bot fast_19: -7009877127481397732
+      running bot fast_2: -1483138439088756930
+      running bot fast_20: -8690057912765806079
+      running bot fast_21: -503944508445911118
+      running bot fast_22: -2980920668297197318
+      running bot fast_23: -3344442768625296647
+      running bot fast_24: -2768233225754526366
+      running bot fast_3: 472779160308501353
+      running bot fast_4: 148734999654270096
+      running bot fast_5: -6162490817177641300
+      running bot fast_6: 2685045948305358651
+      running bot fast_7: -4981502781965535962
+      running bot fast_8: -503226645526266111
+      running bot fast_9: -7056194306189024655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

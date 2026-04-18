@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: d60a2a1b6e8d56c4fb70e4bd0450e1a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1416507201918105208
+    second: thon_0
+  - first:
+      213: -5855961093858935343
+    second: thon_1
+  - first:
+      213: -6453389437180343059
+    second: thon_2
+  - first:
+      213: -5158768316593205766
+    second: thon_3
+  - first:
+      213: 8114114550470801971
+    second: thon_4
+  - first:
+      213: -8670987467126900558
+    second: thon_5
+  - first:
+      213: 9162886382622498275
+    second: thon_6
+  - first:
+      213: 7369115582800240556
+    second: thon_7
+  - first:
+      213: 4086031575290601867
+    second: thon_8
+  - first:
+      213: -7427705692521848111
+    second: thon_9
+  - first:
+      213: -2318585319215503276
+    second: thon_10
+  - first:
+      213: 2440908292147352132
+    second: thon_11
+  - first:
+      213: -5901023222048693891
+    second: thon_12
+  - first:
+      213: -2112089409472993552
+    second: thon_13
+  - first:
+      213: -6013574587432041120
+    second: thon_14
+  - first:
+      213: 5548532433721100884
+    second: thon_15
+  - first:
+      213: 6710601508170601822
+    second: thon_16
+  - first:
+      213: -3580794035107202384
+    second: thon_17
+  - first:
+      213: 4791367152443583559
+    second: thon_18
+  - first:
+      213: -8250384894208881661
+    second: thon_19
+  - first:
+      213: 7306851592545499953
+    second: thon_20
+  - first:
+      213: -1465544335000510697
+    second: thon_21
+  - first:
+      213: 9205278209062089611
+    second: thon_22
+  - first:
+      213: -7821700908083626478
+    second: thon_23
+  - first:
+      213: 5965450167419268646
+    second: thon_24
+  - first:
+      213: -6342771325189296657
+    second: thon_25
+  - first:
+      213: 599006074257988940
+    second: thon_26
+  - first:
+      213: 7934293486285407048
+    second: thon_27
+  - first:
+      213: 8995840081880022195
+    second: thon_28
+  - first:
+      213: -6969257532058421988
+    second: thon_29
+  - first:
+      213: -2873225021731860547
+    second: thon_30
+  - first:
+      213: -4859582466190256363
+    second: thon_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thon_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 478
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88983ef643e875ce0800000000000000
+      internalID: -1416507201918105208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 470
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb70e49627bbea0800000000000000
+      internalID: -5855961093858935343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 470
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec8b979f74f076a0800000000000000
+      internalID: -6453389437180343059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 470
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd0ce26c8f5868b0800000000000000
+      internalID: -5158768316593205766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 478
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af3a771302b9070800000000000000
+      internalID: 8114114550470801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 470
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8790ae6d67aa780800000000000000
+      internalID: -8670987467126900558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_6
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 470
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed5a713e9c192f70800000000000000
+      internalID: 9162886382622498275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 470
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf9a9d449b544660800000000000000
+      internalID: 7369115582800240556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 318
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e93aa11084b830800000000000000
+      internalID: 4086031575290601867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 315
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2a61db60d7be890800000000000000
+      internalID: -7427705692521848111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 315
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45869b2cfeab2dfd0800000000000000
+      internalID: -2318585319215503276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 325
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429fb2c829dfd120800000000000000
+      internalID: 2440908292147352132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 318
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e47ef4aa5b1ea0800000000000000
+      internalID: -5901023222048693891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 315
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f66f765fd950b2e0800000000000000
+      internalID: -2112089409472993552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 315
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0650cc526cd7b8ca0800000000000000
+      internalID: -6013574587432041120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 320
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a0ea0e9d8500d40800000000000000
+      internalID: 5548532433721100884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5595b37488d02d50800000000000000
+      internalID: 6710601508170601822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 155
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf8930cc67e4ec0800000000000000
+      internalID: -3580794035107202384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cefd51a0b5e7240800000000000000
+      internalID: 4791367152443583559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 165
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4e60b6aeb08d80800000000000000
+      internalID: -8250384894208881661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 155
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bfb206fc6276560800000000000000
+      internalID: 7306851592545499953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 155
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f55bd213759abe0800000000000000
+      internalID: -1465544335000510697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_22
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 158
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b833acd62c7bfbf70800000000000000
+      internalID: 9205278209062089611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 165
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e335a177cb37390800000000000000
+      internalID: -7821700908083626478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ee15a225989c250800000000000000
+      internalID: 5965450167419268646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedee8ec513f9f7a0800000000000000
+      internalID: -6342771325189296657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd272d9d8105800800000000000000
+      internalID: 599006074257988940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 10
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ccb953e54c1e60800000000000000
+      internalID: 7934293486285407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcfda874e4a7dc70800000000000000
+      internalID: 8995840081880022195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1531750339384f90800000000000000
+      internalID: -6969257532058421988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_30
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf88e3d0114028d0800000000000000
+      internalID: -2873225021731860547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thon_31
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 5
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51753028e7b4f8cb0800000000000000
+      internalID: -4859582466190256363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thon_0: -1416507201918105208
+      thon_1: -5855961093858935343
+      thon_10: -2318585319215503276
+      thon_11: 2440908292147352132
+      thon_12: -5901023222048693891
+      thon_13: -2112089409472993552
+      thon_14: -6013574587432041120
+      thon_15: 5548532433721100884
+      thon_16: 6710601508170601822
+      thon_17: -3580794035107202384
+      thon_18: 4791367152443583559
+      thon_19: -8250384894208881661
+      thon_2: -6453389437180343059
+      thon_20: 7306851592545499953
+      thon_21: -1465544335000510697
+      thon_22: 9205278209062089611
+      thon_23: -7821700908083626478
+      thon_24: 5965450167419268646
+      thon_25: -6342771325189296657
+      thon_26: 599006074257988940
+      thon_27: 7934293486285407048
+      thon_28: 8995840081880022195
+      thon_29: -6969257532058421988
+      thon_3: -5158768316593205766
+      thon_30: -2873225021731860547
+      thon_31: -4859582466190256363
+      thon_4: 8114114550470801971
+      thon_5: -8670987467126900558
+      thon_6: 9162886382622498275
+      thon_7: 7369115582800240556
+      thon_8: 4086031575290601867
+      thon_9: -7427705692521848111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

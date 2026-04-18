@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: b10d98f0e856958448afe73d93551550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8622620542131822367
+    second: kidnap_0
+  - first:
+      213: 6966263714151817095
+    second: kidnap_1
+  - first:
+      213: 8210012164799731452
+    second: kidnap_2
+  - first:
+      213: -3015273924189081358
+    second: kidnap_3
+  - first:
+      213: -8224781615878116686
+    second: kidnap_4
+  - first:
+      213: 825178083301229836
+    second: kidnap_5
+  - first:
+      213: 8055109749050356524
+    second: kidnap_6
+  - first:
+      213: -9121569018510841359
+    second: kidnap_7
+  - first:
+      213: -2315199791054619634
+    second: kidnap_8
+  - first:
+      213: 3522007105672352824
+    second: kidnap_9
+  - first:
+      213: 3772150833173328312
+    second: kidnap_10
+  - first:
+      213: 5061515914091318349
+    second: kidnap_11
+  - first:
+      213: 2803700876387954688
+    second: kidnap_12
+  - first:
+      213: 7393294303388722866
+    second: kidnap_13
+  - first:
+      213: -8681961502835362730
+    second: kidnap_14
+  - first:
+      213: -575382133754773876
+    second: kidnap_15
+  - first:
+      213: -307047705668334019
+    second: kidnap_16
+  - first:
+      213: -1295028023566683211
+    second: kidnap_17
+  - first:
+      213: 4234978888486747708
+    second: kidnap_18
+  - first:
+      213: 5979955235775015170
+    second: kidnap_19
+  - first:
+      213: -5736738024747132150
+    second: kidnap_20
+  - first:
+      213: 3119035461770139324
+    second: kidnap_21
+  - first:
+      213: -4503423585198305231
+    second: kidnap_22
+  - first:
+      213: 1098391669614847370
+    second: kidnap_23
+  - first:
+      213: -6892191925483561622
+    second: kidnap_24
+  - first:
+      213: 3748539034429037462
+    second: kidnap_25
+  - first:
+      213: 5625974613025062377
+    second: kidnap_26
+  - first:
+      213: 6461425742684507891
+    second: kidnap_27
+  - first:
+      213: -8148744373543323803
+    second: kidnap_28
+  - first:
+      213: -982993910514501505
+    second: kidnap_29
+  - first:
+      213: -4962196772931985671
+    second: kidnap_30
+  - first:
+      213: 666756678708119892
+    second: kidnap_31
+  - first:
+      213: -1140780545493948536
+    second: kidnap_32
+  - first:
+      213: -737863739657995663
+    second: kidnap_33
+  - first:
+      213: 2877979813678662638
+    second: kidnap_34
+  - first:
+      213: 4354102659300005266
+    second: kidnap_35
+  - first:
+      213: 7773175151842090322
+    second: kidnap_36
+  - first:
+      213: -3916506921355840345
+    second: kidnap_37
+  - first:
+      213: 2347860248925314895
+    second: kidnap_38
+  - first:
+      213: 3590033682886317436
+    second: kidnap_39
+  - first:
+      213: 1234466321965131158
+    second: kidnap_40
+  - first:
+      213: -4993797062287613095
+    second: kidnap_41
+  - first:
+      213: 904704582179865578
+    second: kidnap_42
+  - first:
+      213: 97809329132325257
+    second: kidnap_43
+  - first:
+      213: -5245568112063125977
+    second: kidnap_44
+  - first:
+      213: 8487869396192563855
+    second: kidnap_45
+  - first:
+      213: -3738436196866425004
+    second: kidnap_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kidnap_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1083
+        width: 152
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fd0cec2b3b9a770800000000000000
+      internalID: 8622620542131822367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1083
+        width: 152
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f56bd60f32da060800000000000000
+      internalID: 6966263714151817095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1085
+        width: 153
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6168cb092dfe170800000000000000
+      internalID: 8210012164799731452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1083
+        width: 152
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0363077589726d0800000000000000
+      internalID: -3015273924189081358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1085
+        width: 152
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baeb6672b4bbdd80800000000000000
+      internalID: -8224781615878116686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_5
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1083
+        width: 151
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058b93481f937b00800000000000000
+      internalID: 825178083301229836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_6
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1083
+        width: 152
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23bee293af79cf60800000000000000
+      internalID: 8055109749050356524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_7
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1083
+        width: 152
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e3794e4da96180800000000000000
+      internalID: -9121569018510841359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_8
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1088
+        width: 152
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c71267e02cedfd0800000000000000
+      internalID: -2315199791054619634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_9
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1085
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834900e5dcea0e030800000000000000
+      internalID: 3522007105672352824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_10
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1083
+        width: 150
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b17d72723f595430800000000000000
+      internalID: 3772150833173328312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_11
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1083
+        width: 150
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c466428ed1e3640800000000000000
+      internalID: 5061515914091318349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 811
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0003e89a71fb8e620800000000000000
+      internalID: 2803700876387954688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 811
+        width: 168
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b667616ff14a9660800000000000000
+      internalID: 7393294303388722866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 807
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b1ed130a738780800000000000000
+      internalID: -8681961502835362730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 810
+        width: 172
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb0737ff4d308f0800000000000000
+      internalID: -575382133754773876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 813
+        width: 169
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e4a8e0db52dbbf0800000000000000
+      internalID: -307047705668334019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 810
+        width: 170
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b129bfd2270ee0800000000000000
+      internalID: -1295028023566683211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_18
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 810
+        width: 172
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef7877cdaa5ca30800000000000000
+      internalID: 4234978888486747708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_19
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 814
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096b119a911df250800000000000000
+      internalID: 5979955235775015170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_20
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 807
+        width: 155
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b987939230360b0800000000000000
+      internalID: -5736738024747132150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_21
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 810
+        width: 167
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d7a42a3a094b20800000000000000
+      internalID: 3119035461770139324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_22
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 810
+        width: 149
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13093230c10a081c0800000000000000
+      internalID: -4503423585198305231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 811
+        width: 164
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8524ab67654e3f00800000000000000
+      internalID: 1098391669614847370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 533
+        width: 170
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9cbdc5f30a50a0800000000000000
+      internalID: -6892191925483561622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 533
+        width: 168
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b14d5246c750430800000000000000
+      internalID: 3748539034429037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 533
+        width: 167
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed79b45a1a731e40800000000000000
+      internalID: 5625974613025062377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 533
+        width: 169
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe46479a789ba950800000000000000
+      internalID: 6461425742684507891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_28
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 533
+        width: 169
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bc798a28d9ee80800000000000000
+      internalID: -8148744373543323803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_29
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 533
+        width: 168
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78396b1f34bb52f0800000000000000
+      internalID: -982993910514501505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_30
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 542
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9ccb635cb22bb0800000000000000
+      internalID: -4962196772931985671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_31
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 533
+        width: 169
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459440aaaabc04900800000000000000
+      internalID: 666756678708119892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_32
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 533
+        width: 169
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887282353222b20f0800000000000000
+      internalID: -1140780545493948536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_33
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 533
+        width: 168
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3b0196d492c5f0800000000000000
+      internalID: -737863739657995663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_34
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 533
+        width: 169
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3cf017463a0f720800000000000000
+      internalID: 2877979813678662638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_35
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 533
+        width: 159
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2951923bc41ec6c30800000000000000
+      internalID: 4354102659300005266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 142
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd076dd9ddfdb60800000000000000
+      internalID: 7773175151842090322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 253
+        width: 141
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f930a4b5c5a9c0800000000000000
+      internalID: -3916506921355840345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 258
+        width: 156
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f1477f476459020800000000000000
+      internalID: 2347860248925314895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 258
+        width: 155
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7550202d9c52d130800000000000000
+      internalID: 3590033682886317436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_40
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 256
+        width: 150
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952aef4494b12110800000000000000
+      internalID: 1234466321965131158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_41
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 253
+        width: 136
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95325f5b70872bab0800000000000000
+      internalID: -4993797062287613095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_42
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 256
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3cf7f26082e8c00800000000000000
+      internalID: 904704582179865578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_43
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 256
+        width: 156
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c6ae011d7b5100800000000000000
+      internalID: 97809329132325257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_44
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 256
+        width: 162
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266c53289ff337b0800000000000000
+      internalID: -5245568112063125977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_45
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 255
+        width: 142
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8297f3ce38fac570800000000000000
+      internalID: 8487869396192563855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kidnap_46
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 256
+        width: 138
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f705606186e1cc0800000000000000
+      internalID: -3738436196866425004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kidnap_0: 8622620542131822367
+      kidnap_1: 6966263714151817095
+      kidnap_10: 3772150833173328312
+      kidnap_11: 5061515914091318349
+      kidnap_12: 2803700876387954688
+      kidnap_13: 7393294303388722866
+      kidnap_14: -8681961502835362730
+      kidnap_15: -575382133754773876
+      kidnap_16: -307047705668334019
+      kidnap_17: -1295028023566683211
+      kidnap_18: 4234978888486747708
+      kidnap_19: 5979955235775015170
+      kidnap_2: 8210012164799731452
+      kidnap_20: -5736738024747132150
+      kidnap_21: 3119035461770139324
+      kidnap_22: -4503423585198305231
+      kidnap_23: 1098391669614847370
+      kidnap_24: -6892191925483561622
+      kidnap_25: 3748539034429037462
+      kidnap_26: 5625974613025062377
+      kidnap_27: 6461425742684507891
+      kidnap_28: -8148744373543323803
+      kidnap_29: -982993910514501505
+      kidnap_3: -3015273924189081358
+      kidnap_30: -4962196772931985671
+      kidnap_31: 666756678708119892
+      kidnap_32: -1140780545493948536
+      kidnap_33: -737863739657995663
+      kidnap_34: 2877979813678662638
+      kidnap_35: 4354102659300005266
+      kidnap_36: 7773175151842090322
+      kidnap_37: -3916506921355840345
+      kidnap_38: 2347860248925314895
+      kidnap_39: 3590033682886317436
+      kidnap_4: -8224781615878116686
+      kidnap_40: 1234466321965131158
+      kidnap_41: -4993797062287613095
+      kidnap_42: 904704582179865578
+      kidnap_43: 97809329132325257
+      kidnap_44: -5245568112063125977
+      kidnap_45: 8487869396192563855
+      kidnap_46: -3738436196866425004
+      kidnap_5: 825178083301229836
+      kidnap_6: 8055109749050356524
+      kidnap_7: -9121569018510841359
+      kidnap_8: -2315199791054619634
+      kidnap_9: 3522007105672352824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bootstrap/Bootstrap.unity
+    guid: fbe9faca269fa094f963e68b399556f0
+  - enabled: 1
+    path: Assets/Scenes/Video Scene.unity
+    guid: de42201de6fe27144a8d28f16c241235
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 3cdb6b8257b667548bb21180a14100ce
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 4ce3e4d00a656fb4f9d0c52509cd9bb9
+  - enabled: 1
+    path: Assets/Scenes/Singleplayer.unity
+    guid: 6825f7e3de230bd4193b5b065eb6bde6
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 88deaa3a68dc3424ba17b721ffc068a9
+  - enabled: 1
+    path: Assets/Scenes/Worlds.unity
+    guid: e4f9747b67a368c4fb0cdaddfbf4f141
+  - enabled: 1
+    path: Assets/Scenes/Ability Selection.unity
+    guid: bc87b7799a3395543bada573763ae306
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/CBA LEVELS.unity
+    guid: fcd53946fe58fef4fad015d26ac87863
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/Level 1 CBA/Level 1 CBA Classroom.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/Level 1 CBA/Level 1 CBA Hallway Tutorial.unity
+    guid: a57b88017a7136d4aa3645cb49a5fd1b
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/Level 1 CBA/Level 1 CBA Hallway.unity
+    guid: d4397be145dd900438c7c68ec640dd5e
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/Level 2 CBA.unity
+    guid: 287a32de9e6c7904080d271c0758596e
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/Level 3 CBA.unity
+    guid: 2d44f4921936e3848985126713b6d3c3
+  - enabled: 1
+    path: Assets/Scenes/CBA LEVELS/CBA Mini Boss.unity
+    guid: 2bd9901bf150fc94ea431447998d7acb
+  - enabled: 1
+    path: Assets/Scenes/Activity Center/AC LEVELS.unity
+    guid: 539ca68848dc4ef4cb18634b6ea67c1a
+  - enabled: 1
+    path: Assets/Scenes/Activity Center/AC Level 1.unity
+    guid: 49233e51e662e2e4098798f978a981a8
+  - enabled: 1
+    path: Assets/Scenes/Activity Center/AC Level 2.unity
+    guid: 656e8c75719ade144ba218638fb80612
+  - enabled: 1
+    path: Assets/Scenes/Activity Center/AC Mini Boss.unity
+    guid: e20f71601511888419d8370bce3b56e0
+  - enabled: 1
+    path: Assets/Scenes/Admin/Admin LEVELS.unity
+    guid: 67582421e916ed2448f14f724674ef42
+  - enabled: 1
+    path: Assets/Scenes/Admin/Admin Mini Boss.unity
+    guid: eba4228c273488445ae2a8b2180eb86e
+  - enabled: 1
+    path: Assets/Scenes/Admin/Level 1 Admin/Level 1 Admin Inside.unity
+    guid: 4da1ac9e471e77e41a1c79a076ac4294
+  - enabled: 1
+    path: Assets/Scenes/Admin/Level 1 Admin/Level 1 Admin Outside.unity
+    guid: 52ace66ee0494844d8b50f93aa6b74f2
+  - enabled: 1
+    path: Assets/Scenes/Admin/Level 2nd Floor Admin.unity
+    guid: 6876e54956efa2b4290c8a1c8a1ee542
+  - enabled: 1
+    path: Assets/Scenes/Admin/Level 3rd Floor Admin.unity
+    guid: 5ba193b2dfc84274288b152a20465c51
+  - enabled: 1
+    path: Assets/Scenes/Pancho Levels/Pancho LEVELS.unity
+    guid: ab53be6c5b1f3ac429fc8ea51e4b790d
+  - enabled: 1
+    path: Assets/Scenes/Pancho Levels/Level 1 Pancho 1st Floor.unity
+    guid: 983ae3cc15d887a4c98e3879ea4633f4
+  - enabled: 1
+    path: Assets/Scenes/Pancho Levels/Level 2 Pancho 2nd Floor.unity
+    guid: a990b1f4cc6296c41a7308ea202dff91
+  - enabled: 1
+    path: Assets/Scenes/Pancho Levels/Pancho 1st Floor Back.unity
+    guid: cd9a8c06eae173d41a08e9b0e1b56eb7
+  - enabled: 1
+    path: Assets/Scenes/Pancho Levels/Pancho Mini Boss.unity
+    guid: 2e72f0348c3b7f24cad086ef6e15bd9b
+  - enabled: 1
+    path: Assets/Scenes/Gate/Gate LEVELS.unity
+    guid: 51e50e4563e3e8c4195293a069594819
+  - enabled: 1
+    path: Assets/Scenes/Gate/Gate 1.unity
+    guid: 01b231e7c6a0499448be1ea416040378
+  - enabled: 1
+    path: Assets/Scenes/Gate/Gate 2.unity
+    guid: f4fe50a506e37c14c91b60e72b1a872e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

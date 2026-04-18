@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: af036285f564deb4786b78211fe31308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1276788361640561677
+    second: G1_Idle_blueToRed_0
+  - first:
+      213: 4440730690355011265
+    second: G1_Idle_blueToRed_1
+  - first:
+      213: 7797506410794380212
+    second: G1_Idle_blueToRed_2
+  - first:
+      213: 471618173806058600
+    second: G1_Idle_blueToRed_3
+  - first:
+      213: 8432524961633564314
+    second: G1_Idle_blueToRed_4
+  - first:
+      213: 2010069314832042718
+    second: G1_Idle_blueToRed_5
+  - first:
+      213: -789893018580391625
+    second: G1_Idle_blueToRed_6
+  - first:
+      213: 6050559056084186451
+    second: G1_Idle_blueToRed_7
+  - first:
+      213: -1233831709739565698
+    second: G1_Idle_blueToRed_8
+  - first:
+      213: -4238362817780359524
+    second: G1_Idle_blueToRed_9
+  - first:
+      213: -1679891982429646180
+    second: G1_Idle_blueToRed_10
+  - first:
+      213: -7628992288462660304
+    second: G1_Idle_blueToRed_11
+  - first:
+      213: -5483413326146155604
+    second: G1_Idle_blueToRed_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c40fc004018b110800000000000000
+      internalID: 1276788361640561677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce19cde805a0ad30800000000000000
+      internalID: 4440730690355011265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbea3584ce463c60800000000000000
+      internalID: 7797506410794380212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 12
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1457fa368b8600800000000000000
+      internalID: 471618173806058600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9678c176c8560570800000000000000
+      internalID: 8432524961633564314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda0a7c546335eb10800000000000000
+      internalID: 2010069314832042718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 12
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73964f01c7cb905f0800000000000000
+      internalID: -789893018580391625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355bb6e7767e7f350800000000000000
+      internalID: 6050559056084186451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 12
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d3c5cd89c80eee0800000000000000
+      internalID: -1233831709739565698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5af8197f4e25c0800000000000000
+      internalID: -4238362817780359524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9211467423dfa8e0800000000000000
+      internalID: -1679891982429646180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_11
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d1dfb0fef502690800000000000000
+      internalID: -7628992288462660304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G1_Idle_blueToRed_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab4a6ad1a007e3b0800000000000000
+      internalID: -5483413326146155604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      G1_Idle_blueToRed_0: 1276788361640561677
+      G1_Idle_blueToRed_1: 4440730690355011265
+      G1_Idle_blueToRed_10: -1679891982429646180
+      G1_Idle_blueToRed_11: -7628992288462660304
+      G1_Idle_blueToRed_12: -5483413326146155604
+      G1_Idle_blueToRed_2: 7797506410794380212
+      G1_Idle_blueToRed_3: 471618173806058600
+      G1_Idle_blueToRed_4: 8432524961633564314
+      G1_Idle_blueToRed_5: 2010069314832042718
+      G1_Idle_blueToRed_6: -789893018580391625
+      G1_Idle_blueToRed_7: 6050559056084186451
+      G1_Idle_blueToRed_8: -1233831709739565698
+      G1_Idle_blueToRed_9: -4238362817780359524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

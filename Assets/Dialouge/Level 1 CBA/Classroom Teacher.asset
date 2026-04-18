@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: Classroom Teacher
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: Sir Byrce
+  portrait: {fileID: 3615639691921502350, guid: b0cc70b1d65fa2c46a9cb5ce4951d91d, type: 3}
+  nodes:
+  - text: Wait niyo ako sa labas papatayin kolang aircon....
+    choices: []
+    nextNodeIndex: -1

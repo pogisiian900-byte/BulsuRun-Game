@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: e3e6aa5701a2c7747ad4ad054b0ef97f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2051668440121103445
+    second: celso_0
+  - first:
+      213: 3242466868201047732
+    second: celso_1
+  - first:
+      213: -2283096795638970824
+    second: celso_2
+  - first:
+      213: 310670406516086
+    second: celso_3
+  - first:
+      213: 4342768010961362513
+    second: celso_4
+  - first:
+      213: 560685251517462645
+    second: celso_5
+  - first:
+      213: 5356336204421696632
+    second: celso_6
+  - first:
+      213: 4383874628132987202
+    second: celso_7
+  - first:
+      213: 8056367987718097341
+    second: celso_8
+  - first:
+      213: 4869756416012345028
+    second: celso_9
+  - first:
+      213: 1357871700616443294
+    second: celso_10
+  - first:
+      213: -5103005883409169166
+    second: celso_11
+  - first:
+      213: -468432421711261728
+    second: celso_12
+  - first:
+      213: -8075532153939715080
+    second: celso_13
+  - first:
+      213: 3757325348988464480
+    second: celso_14
+  - first:
+      213: -260601561865122288
+    second: celso_15
+  - first:
+      213: -3740348705106825777
+    second: celso_16
+  - first:
+      213: 3050238652880733353
+    second: celso_17
+  - first:
+      213: 3087856059075822884
+    second: celso_18
+  - first:
+      213: -1025916858633740790
+    second: celso_19
+  - first:
+      213: -6927351548350553858
+    second: celso_20
+  - first:
+      213: 950087278155355589
+    second: celso_21
+  - first:
+      213: 1595169094528344623
+    second: celso_22
+  - first:
+      213: -8918209978647267838
+    second: celso_23
+  - first:
+      213: -2396527045935285442
+    second: celso_24
+  - first:
+      213: -6488620777757861612
+    second: celso_25
+  - first:
+      213: -7833329132422411574
+    second: celso_26
+  - first:
+      213: 6871158166824500471
+    second: celso_27
+  - first:
+      213: -2218538287115860741
+    second: celso_28
+  - first:
+      213: 8055730671890827041
+    second: celso_29
+  - first:
+      213: 6190505552407993101
+    second: celso_30
+  - first:
+      213: -258860418242067834
+    second: celso_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celso_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 478
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba3b58c620783e0800000000000000
+      internalID: -2051668440121103445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 470
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6c813ff6e8ffc20800000000000000
+      internalID: 3242466868201047732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 470
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8364b1c8f8fc050e0800000000000000
+      internalID: -2283096795638970824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 470
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67df8379d8a110000800000000000000
+      internalID: 310670406516086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 478
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e184b3f7c944c30800000000000000
+      internalID: 4342768010961362513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 470
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578bf7ff344f7c700800000000000000
+      internalID: 560685251517462645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_6
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 470
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c8e1a1667855a40800000000000000
+      internalID: 5356336204421696632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 470
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e6bd5fb6a6dc30800000000000000
+      internalID: 4383874628132987202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 318
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db904c71008fdcf60800000000000000
+      internalID: 8056367987718097341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 315
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce5817c8a9d49340800000000000000
+      internalID: 4869756416012345028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 315
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957ccd0e1128d210800000000000000
+      internalID: 1357871700616443294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 325
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f40ba89f2b7e29b0800000000000000
+      internalID: -5103005883409169166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 318
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efcf9eb13bcf79f0800000000000000
+      internalID: -468432421711261728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 315
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb9d20ca42fdef80800000000000000
+      internalID: -8075532153939715080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_14
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 315
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d270c6f73b42430800000000000000
+      internalID: 3757325348988464480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 320
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e0e1d9248226cf0800000000000000
+      internalID: -260601561865122288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcde3008bac971cc0800000000000000
+      internalID: -3740348705106825777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 155
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a44f19d4ef945a20800000000000000
+      internalID: 3050238652880733353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 158
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42580ceb9b44ada20800000000000000
+      internalID: 3087856059075822884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 165
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e1d087d0633c1f0800000000000000
+      internalID: -1025916858633740790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 155
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0205e287a1ddf90800000000000000
+      internalID: -6927351548350553858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 155
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5511088536f2d00800000000000000
+      internalID: 950087278155355589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_22
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 158
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222b0407dd232610800000000000000
+      internalID: 1595169094528344623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 165
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b26e66472c3480800000000000000
+      internalID: -8918209978647267838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b396c5953ddbed0800000000000000
+      internalID: -2396527045935285442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4191683e7c9c3f5a0800000000000000
+      internalID: -6488620777757861612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4e3528ac6a4390800000000000000
+      internalID: -7833329132422411574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 10
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc3911a2f14b5f50800000000000000
+      internalID: 6871158166824500471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40bd3ae2b2631e0800000000000000
+      internalID: -2218538287115860741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12785407d54bbcf60800000000000000
+      internalID: 8055730671890827041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_30
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9c5f400819e550800000000000000
+      internalID: 6190505552407993101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celso_31
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 5
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682c54432d7586cf0800000000000000
+      internalID: -258860418242067834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      celso_0: -2051668440121103445
+      celso_1: 3242466868201047732
+      celso_10: 1357871700616443294
+      celso_11: -5103005883409169166
+      celso_12: -468432421711261728
+      celso_13: -8075532153939715080
+      celso_14: 3757325348988464480
+      celso_15: -260601561865122288
+      celso_16: -3740348705106825777
+      celso_17: 3050238652880733353
+      celso_18: 3087856059075822884
+      celso_19: -1025916858633740790
+      celso_2: -2283096795638970824
+      celso_20: -6927351548350553858
+      celso_21: 950087278155355589
+      celso_22: 1595169094528344623
+      celso_23: -8918209978647267838
+      celso_24: -2396527045935285442
+      celso_25: -6488620777757861612
+      celso_26: -7833329132422411574
+      celso_27: 6871158166824500471
+      celso_28: -2218538287115860741
+      celso_29: 8055730671890827041
+      celso_3: 310670406516086
+      celso_30: 6190505552407993101
+      celso_31: -258860418242067834
+      celso_4: 4342768010961362513
+      celso_5: 560685251517462645
+      celso_6: 5356336204421696632
+      celso_7: 4383874628132987202
+      celso_8: 8056367987718097341
+      celso_9: 4869756416012345028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

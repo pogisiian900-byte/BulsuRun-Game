@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b725dc0c28b8409d9070b15382010, type: 3}
+  m_Name: Classroom Opening
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  speakerName: Sir Byrce
+  portrait: {fileID: -4353534673810509437, guid: dab668d677777c245b9f685f2c33a075, type: 3}
+  nodes:
+  - text: Ok Everyone wala pong mag papanik.
+    choices: []
+    nextNodeIndex: 1
+  - text: Please Everyone form a line outside
+    choices:
+    - choiceText: ANO NANGYAYARI SIR???!
+      nextNodeIndex: 2
+    - choiceText: 'Ok po '
+      nextNodeIndex: 3
+    nextNodeIndex: 2
+  - text: Bat sumisigaw?
+    choices: []
+    nextNodeIndex: 4
+  - text: Ok, Labas mona po lahat.
+    choices: []
+    nextNodeIndex: -1
+  - text: Di pa natin as per my request, labas muna po.
+    choices: []
+    nextNodeIndex: -1
